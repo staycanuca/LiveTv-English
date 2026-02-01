@@ -539,7 +539,7 @@ def sportsonline():
     import datetime
     
     # URL of the schedule file
-    PROG_URL = "https://sportsonline.sn/prog.txt"
+    PROG_URL = "https://sportsonline.st/prog.txt"
     OUTPUT_FILE = "sportsonline.m3u"  # Defined as a constant
     
     def get_channel_languages(lines):
@@ -657,7 +657,7 @@ def sportsonline():
             playlist_entries.append({
                 "name": event_name,
                 "url": page_url,
-                "referrer": "https://sportsonline.sn/",
+                "referrer": "https://sportsonline.st/",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
             })
     
@@ -668,7 +668,7 @@ def sportsonline():
         playlist_entries.append({
             "name": "NO EVENT", 
             "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-            "referrer": "https://sportsonline.sn/",
+            "referrer": "https://sportsonline.st/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         })
 
