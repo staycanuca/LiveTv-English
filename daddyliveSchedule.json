@@ -1,142 +1,4 @@
 {
-    "Tuesday 10th Feb 2026 - Schedule Time UK GMT": {
-        "Soccer</span>": [
-            {
-                "time": "19:30",
-                "event": "Soccer : Tottenham Hotspur vs Newcastle United",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-503",
-                        "channel_id": "503"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "Soccer : Chelsea vs Leeds United",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-501",
-                        "channel_id": "501"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "Soccer : Everton vs AFC Bournemouth",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-505",
-                        "channel_id": "505"
-                    }
-                ]
-            },
-            {
-                "time": "19:45",
-                "event": "Soccer : Hertha BSC vs Freiburg",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-508",
-                        "channel_id": "508"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "Soccer : Napoli vs Como",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-509",
-                        "channel_id": "509"
-                    }
-                ]
-            },
-            {
-                "time": "20:15",
-                "event": "Soccer : West Ham United vs Manchester United",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-501",
-                        "channel_id": "501"
-                    }
-                ]
-            }
-        ],
-        "Ice Hockey</span>": [
-            {
-                "time": "15:40",
-                "event": "Italy W vs Germany W",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-516",
-                        "channel_id": "516"
-                    }
-                ]
-            },
-            {
-                "time": "18:40",
-                "event": "Canada W vs USA W",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-517",
-                        "channel_id": "517"
-                    }
-                ]
-            },
-            {
-                "time": "20:10",
-                "event": "Finland W vs Switzerland W",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-518",
-                        "channel_id": "518"
-                    }
-                ]
-            }
-        ],
-        "Basketball</span>": [
-            {
-                "time": "00:30",
-                "event": "NBA : New York Knicks vs Indiana Pacers",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-565",
-                        "channel_id": "565"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "NBA : Houston Rockets vs Los Angeles Clippers",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-566",
-                        "channel_id": "566"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "NBA : Phoenix Suns vs Dallas Mavericks",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-567",
-                        "channel_id": "567"
-                    }
-                ]
-            },
-            {
-                "time": "03:30",
-                "event": "NBA : Los Angeles Lakers vs San Antonio Spurs",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-568",
-                        "channel_id": "568"
-                    }
-                ]
-            }
-        ]
-    },
     "Wednesday 11th Feb 2026 - Schedule Time UK GMT": {
         "Soccer</span>": [
             {
@@ -358,6 +220,82 @@
                     {
                         "channel_name": "Extra Stream CH-578",
                         "channel_id": "578"
+                    }
+                ]
+            }
+        ]
+    },
+    "Thursday 12th Feb 2026 - Schedule Time UK GMT": {
+        "Soccer</span>": [
+            {
+                "time": "20:00",
+                "event": "Soccer : Brentford vs Arsenal",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-501",
+                        "channel_id": "501"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Soccer : Atl\u00e9tico Madrid vs Barcelona",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-506",
+                        "channel_id": "506"
+                    }
+                ]
+            }
+        ],
+        "Ice Hockey</span>": [
+            {
+                "time": "13:15",
+                "event": "Olympic Games Women : Finland W vs Canada W",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-515",
+                        "channel_id": "515"
+                    }
+                ]
+            },
+            {
+                "time": "11:10",
+                "event": "Olympic Games : France vs Switzerland",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-519",
+                        "channel_id": "519"
+                    }
+                ]
+            },
+            {
+                "time": "15:40",
+                "event": "Olympic Games : Czech Republic vs Canada",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-516",
+                        "channel_id": "516"
+                    }
+                ]
+            },
+            {
+                "time": "20:10",
+                "event": "Olympic Games : Latvia vs USA",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-518",
+                        "channel_id": "518"
+                    }
+                ]
+            },
+            {
+                "time": "20:10",
+                "event": "Olympic Games : Germany vs Denmark",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-517",
+                        "channel_id": "517"
                     }
                 ]
             }

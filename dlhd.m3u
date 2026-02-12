@@ -3,41 +3,68 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Aston Villa vs Brighton & Hove Albion (19:30)
-https://dlhd.dad/watch.php?id=503
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Manchester City vs Fulham (19:30)
-https://dlhd.dad/watch.php?id=504
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Crystal Palace vs Burnley (19:30)
-https://dlhd.dad/watch.php?id=505
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Nottingham Forest vs Wolverhampton Wanderers (19:30)
-https://dlhd.dad/watch.php?id=502
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bayern München vs RB Leipzig (19:45)
-https://dlhd.dad/watch.php?id=508
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Athletic Club vs Real Sociedad (20:00)
-https://dlhd.dad/watch.php?id=506
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bologna vs Lazio (20:00)
-https://dlhd.dad/watch.php?id=509
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Sunderland vs Liverpool (20:15)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Brentford vs Arsenal (20:00)
 https://dlhd.dad/watch.php?id=501
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : New York Knicks vs Indiana Pacers (00:30)
-https://dlhd.dad/watch.php?id=565
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atlético Madrid vs Barcelona (20:00)
+https://dlhd.dad/watch.php?id=506
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Houston Rockets vs Los Angeles Clippers (01:00)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Washington Wizards at Cleveland Cavaliers (00:00)
 https://dlhd.dad/watch.php?id=566
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Phoenix Suns vs Dallas Mavericks (02:00)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Charlotte Hornets vs Atlanta Hawks (00:00)
+https://dlhd.dad/watch.php?id=565
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Orlando Magic vs Milwaukee Bucks (00:00)
 https://dlhd.dad/watch.php?id=567
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Los Angeles Lakers vs San Antonio Spurs (03:30)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Boston Celtics vs Chicago Bulls (00:30)
 https://dlhd.dad/watch.php?id=568
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Brooklyn Nets vs Indiana Pacers (00:30)
+https://dlhd.dad/watch.php?id=569
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Philadelphia 76ers vs New York Knicks (00:30)
+https://dlhd.dad/watch.php?id=570
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Toronto Raptors vs Detroit Pistons (00:30)
+https://dlhd.dad/watch.php?id=571
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Houston Rockets vs Los Angeles Clippers (01:00)
+https://dlhd.dad/watch.php?id=572
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Minnesota Timberwolves vs Portland Trail Blazers (01:00)
+https://dlhd.dad/watch.php?id=573
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : New Orleans Pelicans vs Miami Heat (01:00)
+https://dlhd.dad/watch.php?id=574
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Denver Nuggets vs Memphis Grizzlies (02:00)
+https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Phoenix Suns vs Oklahoma City Thunder (02:00)
+https://dlhd.dad/watch.php?id=567
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Utah Jazz vs Sacramento Kings (02:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Golden State Warriors vs San Antonio Spurs (03:00)
+https://dlhd.dad/watch.php?id=578
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Olympic Games Women : Finland W vs Canada W (13:15)
+https://dlhd.dad/watch.php?id=515
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Olympic Games : France vs Switzerland (11:10)
+https://dlhd.dad/watch.php?id=519
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Olympic Games : Czech Republic vs Canada (15:40)
+https://dlhd.dad/watch.php?id=516
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Olympic Games : Latvia vs USA (20:10)
+https://dlhd.dad/watch.php?id=518
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Olympic Games : Germany vs Denmark (20:10)
+https://dlhd.dad/watch.php?id=517
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://dlhd.dad/watch.php?id=51
