@@ -3,59 +3,17 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Udinese vs Sassuolo (11:30)
-https://dlhd.dad/watch.php?id=509
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Birmingham City vs Leeds United (12:00)
-https://dlhd.dad/watch.php?id=503
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Real Oviedo vs Athletic Club (13:00)
-https://dlhd.dad/watch.php?id=506
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Grimsby Town vs Wolverhampton Wanderers (13:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Macclesfield vs Brentford (19:30)
 https://dlhd.dad/watch.php?id=501
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Parma vs Verona (14:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Cagliari vs Lecce (19:45)
 https://dlhd.dad/watch.php?id=509
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Cremonese vs Genoa (14:00)
-https://dlhd.dad/watch.php?id=510
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Le Havre vs Toulouse (14:00)
-https://dlhd.dad/watch.php?id=507
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Oxford United vs Sunderland (14:00)
-https://dlhd.dad/watch.php?id=505
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Stoke City vs Fulham (14:00)
-https://dlhd.dad/watch.php?id=504
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Rayo Vallecano vs Atlético Madrid (15:15)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Girona vs Barcelona (20:00)
 https://dlhd.dad/watch.php?id=506
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Metz vs Auxerre (16:15)
-https://dlhd.dad/watch.php?id=507
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Lorient vs Angers SCO (16:15)
-https://dlhd.dad/watch.php?id=511
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Arsenal vs Wigan Athletic (16:30)
-https://dlhd.dad/watch.php?id=501
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Torino vs Bologna (17:00)
-https://dlhd.dad/watch.php?id=509
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Levante vs Valencia (17:30)
-https://dlhd.dad/watch.php?id=506
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Napoli vs Roma (19:45)
-https://dlhd.dad/watch.php?id=509
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Olympique Lyonnais vs Nice (19:45)
-https://dlhd.dad/watch.php?id=507
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Mallorca vs Real Betis (20:00)
-https://dlhd.dad/watch.php?id=506
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Coventry City vs Middlesbrough (20:00)
+https://dlhd.dad/watch.php?id=502
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://dlhd.dad/watch.php?id=51
