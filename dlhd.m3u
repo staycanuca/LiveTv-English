@@ -3,26 +3,17 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atlético Madrid vs Club Brugge (17:45)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atalanta vs Borussia Dortmund (17:45)
 https://dlhd.dad/watch.php?id=503
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bayer Leverkusen vs Olympiakos Piraeus (20:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Juventus vs Galatasaray (20:00)
+https://dlhd.dad/watch.php?id=503
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : PSG vs Monaco (20:00)
 https://dlhd.dad/watch.php?id=502
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Internazionale vs Bodø / Glimt (20:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Real Madrid vs Benfica (20:00)
 https://dlhd.dad/watch.php?id=501
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Newcastle United vs Qarabağ (20:00)
-https://dlhd.dad/watch.php?id=504
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Detroit Pistons vs San Antonio Spurs (00:00)
-https://dlhd.dad/watch.php?id=565
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Memphis Grizzlies vs Sacramento Kings (01:00)
-https://dlhd.dad/watch.php?id=566
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Houston Rockets vs Utah Jazz (02:30)
-https://dlhd.dad/watch.php?id=567
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://dlhd.dad/watch.php?id=51
