@@ -3,17 +3,20 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atalanta vs Borussia Dortmund (17:45)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Viktoria Plzeň vs Panathinaikos (17:45)
 https://dlhd.dad/watch.php?id=503
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Juventus vs Galatasaray (20:00)
-https://dlhd.dad/watch.php?id=503
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : PSG vs Monaco (20:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bologna vs Brann (20:00)
 https://dlhd.dad/watch.php?id=502
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Real Madrid vs Benfica (20:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Nottingham Forest vs Fenerbahçe (20:00)
 https://dlhd.dad/watch.php?id=501
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Genk vs Dinamo Zagreb (20:00)
+https://dlhd.dad/watch.php?id=503
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Celta de Vigo vs PAOK (20:00)
+https://dlhd.dad/watch.php?id=504
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://dlhd.dad/watch.php?id=51
