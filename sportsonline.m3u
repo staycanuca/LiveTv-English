@@ -1,19 +1,33 @@
 #EXTM3U
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Kazakhstan x Namibia 12:00 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd2.php
 #EXTINF:-1 group-title="Live Events SPORTSONLINE",Tennis - ATP World Tour 1000: Miami Open 17:00 [ENGLISH]
 https://w2.sportzsonline.click/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Wolfsburg W x OL Lyonnes W 18:45 [ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Germany U19 x Sweden U19 18:00 [GERMAN]
+https://w2.sportzsonline.click/channels/hd/hd3.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Real Madrid W x Barcelona W 18:45 [ENGLISH]
 https://w2.sportzsonline.click/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Wolfsburg W x OL Lyonnes W 18:45 [SPANISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Real Madrid W x Barcelona W 18:45 [SPANISH]
 https://w2.sportzsonline.click/channels/hd/hd6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Arsenal W x Chelsea FC W 21:00 [ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Real Madrid W x Barcelona W 18:45 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Manchester United W x Bayern W 21:00 [ENGLISH]
 https://w2.sportzsonline.click/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Arsenal W x Chelsea FC W 21:00 [SPANISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Manchester United W x Bayern W 21:00 [SPANISH]
 https://w2.sportzsonline.click/channels/hd/hd6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Arsenal W x Chelsea FC W 21:00 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Manchester United W x Bayern W 21:00 [BRAZILIAN]
 https://w2.sportzsonline.click/channels/bra/br2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Deportivo Pereira x CÃºcuta Deportivo 21:30 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Junior x AtlÃ©tico Bucaramanga 00:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Fortaleza CEIF x Deportivo Pasto 02:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Deportivo Riestra x San Lorenzo 23:00 [ENGLISH & SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Atlanta Hawks @ Detroit Pistons 00:00 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Atlanta Hawks @ Detroit Pistons 00:00 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Los Angeles Lakers @ Indiana Pacers 00:00 [POLISH & ENGLISH & SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd10.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Houston Rockets @ Minnesota Timberwolves 02:30 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Houston Rockets @ Minnesota Timberwolves 02:30 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",San Diego Wave W x Portland Thorns W 03:00 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd5.php
