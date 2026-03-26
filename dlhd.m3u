@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
+#EXTINF:-1 group-title="Live Events",Upcoming Events | KSW 117: Pawlak vs. Khalidov, April 18, 2026 (16:00)
+https://dlhd.dad/watch.php?id=5004
+
 #EXTINF:-1 group-title="Live Events",Upcoming Events | The 2026 Masters Golf Tournament, the 90th edition, April 6, 2026 (17:00)
 https://dlhd.dad/watch.php?id=70
 
@@ -12,35 +15,35 @@ https://dlhd.dad/watch.php?id=318
 #EXTINF:-1 group-title="Live Events",Upcoming Events | East vs West 23 arm wrestling in Germany on April 18, 2026 (18:00)
 https://dlhd.dad/watch.php?id=5016
 
-#EXTINF:-1 group-title="Live Events",Soccer | Colombia - Primera A : Fortaleza CEIF vs Deportivo Pasto (01:00)
+#EXTINF:-1 group-title="Live Events",Upcoming Events | UFC Fight Night: Adesanya vs Pyfer, March 28, 2026 (21:00)
+https://dlhd.dad/watch.php?id=5003
+
+#EXTINF:-1 group-title="Live Events",All Soccer Events | Copa Argentina : Banfield vs Real Pilar (00:15)
+https://dlhd.dad/watch.php?id=746
+
+#EXTINF:-1 group-title="Live Events",All Soccer Events | Colombia - Primera A : América de Cali vs Llaneros (01:00)
 https://dlhd.dad/watch.php?id=392
 
-#EXTINF:-1 group-title="Live Events",Cricket | 5th Women's T20 : New Zealand W vs South Africa W (01:30)
-https://dlhd.dad/watch.php?id=31
+#EXTINF:-1 group-title="Live Events",All Soccer Events | Mexico - Liga MX Femenil : Tigres UANL vs América (01:00)
+https://dlhd.dad/watch.php?id=643
 
-#EXTINF:-1 group-title="Live Events",Cricket | 5th Women's T20 : New Zealand W vs South Africa W (01:30)
-https://dlhd.dad/watch.php?id=368
+#EXTINF:-1 group-title="Live Events",NWSL Soccer | United States - NWSL : Chicago Stars vs Orlando Pride (00:00)
+https://dlhd.dad/watch.php?id=19
 
-#EXTINF:-1 group-title="Live Events",Cricket | 5th Women's T20 : New Zealand W vs South Africa W (01:30)
-https://dlhd.dad/watch.php?id=412
+#EXTINF:-1 group-title="Live Events",NWSL Soccer | United States - NWSL : Seattle Reign vs Kansas City Current (01:00)
+https://dlhd.dad/watch.php?id=20
 
-#EXTINF:-1 group-title="Live Events",Cricket | 5th T20 : New Zealand vs South Africa (06:00)
-https://dlhd.dad/watch.php?id=31
+#EXTINF:-1 group-title="Live Events",NWSL Soccer | United States - NWSL : San Diego Wave vs Portland Thorns (02:00)
+https://dlhd.dad/watch.php?id=308
 
-#EXTINF:-1 group-title="Live Events",Cricket | 5th T20 : New Zealand vs South Africa (06:00)
-https://dlhd.dad/watch.php?id=368
-
-#EXTINF:-1 group-title="Live Events",Cricket | 5th T20 : New Zealand vs South Africa (06:00)
-https://dlhd.dad/watch.php?id=412
-
-#EXTINF:-1 group-title="Live Events",Cricket | 1-Day Cup '26 Qualifier (11:00)
-https://dlhd.dad/watch.php?id=368
-
-#EXTINF:-1 group-title="Live Events",Cricket | 1-Day Cup '26 Qualifier (11:00)
-https://dlhd.dad/watch.php?id=412
+#EXTINF:-1 group-title="Live Events",Cricket | Pakistan Super League Cricket : Lahore Qalandars vs Hyderabad Kingsmen (14:00)
+https://dlhd.dad/watch.php?id=346
 
 #EXTINF:-1 group-title="Live Events",Cricket | Sheffield Shield : Victorian Bushrangers vs South Australia (23:30)
 https://dlhd.dad/watch.php?id=589
+
+#EXTINF:-1 group-title="Live Events",Cricket | Sheffield Shield : Victorian Bushrangers vs South Australia (23:30)
+https://dlhd.dad/watch.php?id=590
 
 #EXTINF:-1 group-title="Live Events",Cricket | Sheffield Shield : Victorian Bushrangers vs South Australia (23:30)
 https://dlhd.dad/watch.php?id=592
@@ -48,20 +51,20 @@ https://dlhd.dad/watch.php?id=592
 #EXTINF:-1 group-title="Live Events",Cricket | Sheffield Shield : Victorian Bushrangers vs South Australia (23:30)
 https://dlhd.dad/watch.php?id=596
 
-#EXTINF:-1 group-title="Live Events",Tennis ΑΤΡ - ΜΙΑMI | ΑΤΡ - ΜΙΑMI : Halys Q. vs Zverev A. (00:30)
-https://dlhd.dad/watch.php?id=40
-
-#EXTINF:-1 group-title="Live Events",Tennis ΑΤΡ - ΜΙΑMI | ΑΤΡ - ΜΙΑMI : Halys Q. vs Zverev A. (00:30)
-https://dlhd.dad/watch.php?id=1520
-
-#EXTINF:-1 group-title="Live Events",Tennis ΑΤΡ - ΜΙΑMI | ΑΤΡ - ΜΙΑMI : Halys Q. vs Zverev A. (00:30)
-https://dlhd.dad/watch.php?id=1570
-
-#EXTINF:-1 group-title="Live Events",Tennis ΑΤΡ - ΜΙΑMI | ΑΤΡ - ΜΙΑMI : Halys Q. vs Zverev A. (00:30)
+#EXTINF:-1 group-title="Live Events",Tennis ATP - MIAMI | ATP - MIAMI : Paul T. vs Fils A. (00:30)
 https://dlhd.dad/watch.php?id=1507
 
-#EXTINF:-1 group-title="Live Events",Tennis ΑΤΡ - ΜΙΑMI | ΑΤΡ - ΜΙΑMI : Halys Q. vs Zverev A. (00:30)
+#EXTINF:-1 group-title="Live Events",Tennis ATP - MIAMI | ATP - MIAMI : Paul T. vs Fils A. (00:30)
 https://dlhd.dad/watch.php?id=1557
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - MIAMI | ATP - MIAMI : Paul T. vs Fils A. (00:30)
+https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - MIAMI | ATP - MIAMI : Paul T. vs Fils A. (00:30)
+https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - MIAMI | ATP - MIAMI : Paul T. vs Fils A. (00:30)
+https://dlhd.dad/watch.php?id=1570
 
 #EXTINF:-1 group-title="Live Events",Tennis | Miami Masters 1000 | Quarter-final (15:00)
 https://dlhd.dad/watch.php?id=40
@@ -92,9 +95,6 @@ https://dlhd.dad/watch.php?id=102
 
 #EXTINF:-1 group-title="Live Events",Tennis | Miami Masters 1000 | Quarter-final (15:00)
 https://dlhd.dad/watch.php?id=472
-
-#EXTINF:-1 group-title="Live Events",Tennis | Miami Masters 1000 | Quarter-final (15:00)
-https://dlhd.dad/watch.php?id=393
 
 #EXTINF:-1 group-title="Live Events",Tennis | Miami Masters 1000 | Quarter-final (15:00)
 https://dlhd.dad/watch.php?id=396
@@ -135,1178 +135,716 @@ https://dlhd.dad/watch.php?id=104
 #EXTINF:-1 group-title="Live Events",Tennis | Miami Masters 1000 | Quarter-final (15:00)
 https://dlhd.dad/watch.php?id=714
 
-#EXTINF:-1 group-title="Live Events",Tennis | WTA Miami Open (17:00)
+#EXTINF:-1 group-title="Live Events",Tennis | ATP Miami Open (17:00)
 https://dlhd.dad/watch.php?id=113
 
-#EXTINF:-1 group-title="Live Events",Tennis | WTA Miami Open (17:00)
-https://dlhd.dad/watch.php?id=833
-
-#EXTINF:-1 group-title="Live Events",Tennis | ATP Miami Open (19:00)
-https://dlhd.dad/watch.php?id=113
-
-#EXTINF:-1 group-title="Live Events",Tennis | ATP Miami Open (19:00)
+#EXTINF:-1 group-title="Live Events",Tennis | ATP Miami Open (17:00)
 https://dlhd.dad/watch.php?id=840
 
-#EXTINF:-1 group-title="Live Events",Motorsport | High Limit Racing Vado Speedway Park (01:00)
-https://dlhd.dad/watch.php?id=39
-
-#EXTINF:-1 group-title="Live Events",Golf | World Long Drive WLD MB Invitational Final (00:00)
-https://dlhd.dad/watch.php?id=318
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL '26: Los Angeles Golf Club vs Jupiter Links GC Final 3 (01:00)
-https://dlhd.dad/watch.php?id=70
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL '26: Los Angeles Golf Club vs Jupiter Links GC Final 3 (01:00)
-https://dlhd.dad/watch.php?id=44
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL '26: Los Angeles Golf Club vs Jupiter Links GC Final 3 (01:00)
-https://dlhd.dad/watch.php?id=588
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL '26: Los Angeles Golf Club vs Jupiter Links GC Final 3 (01:00)
-https://dlhd.dad/watch.php?id=901
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL '26: Los Angeles Golf Club vs Jupiter Links GC Final 3 (01:00)
-https://dlhd.dad/watch.php?id=422
-
-#EXTINF:-1 group-title="Live Events",Golf | TGL '26: Los Angeles Golf Club vs Jupiter Links GC Final 3 (01:00)
-https://dlhd.dad/watch.php?id=714
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of the women's giant slalom (08:15)
-https://dlhd.dad/watch.php?id=32
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of the women's giant slalom (08:15)
-https://dlhd.dad/watch.php?id=82
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of the women's giant slalom (08:15)
-https://dlhd.dad/watch.php?id=57
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of the women's giant slalom (08:15)
-https://dlhd.dad/watch.php?id=524
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of the women's giant slalom (08:15)
-https://dlhd.dad/watch.php?id=772
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of the women's giant slalom (08:15)
-https://dlhd.dad/watch.php?id=231
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of the women's giant slalom (08:15)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of the women's giant slalom (08:15)
-https://dlhd.dad/watch.php?id=41
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of men's slalom (09:30)
-https://dlhd.dad/watch.php?id=82
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of men's slalom (09:30)
-https://dlhd.dad/watch.php?id=57
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of men's slalom (09:30)
-https://dlhd.dad/watch.php?id=524
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of men's slalom (09:30)
-https://dlhd.dad/watch.php?id=772
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of men's slalom (09:30)
-https://dlhd.dad/watch.php?id=231
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of men's slalom (09:30)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 1st run of men's slalom (09:30)
-https://dlhd.dad/watch.php?id=41
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | rld Cup Competition in Lillehammer 2nd run of the women's giant slalom (11:15)
-https://dlhd.dad/watch.php?id=31
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | rld Cup Competition in Lillehammer 2nd run of the women's giant slalom (11:15)
-https://dlhd.dad/watch.php?id=82
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | rld Cup Competition in Lillehammer 2nd run of the women's giant slalom (11:15)
-https://dlhd.dad/watch.php?id=57
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | rld Cup Competition in Lillehammer 2nd run of the women's giant slalom (11:15)
-https://dlhd.dad/watch.php?id=524
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | rld Cup Competition in Lillehammer 2nd run of the women's giant slalom (11:15)
-https://dlhd.dad/watch.php?id=772
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | rld Cup Competition in Lillehammer 2nd run of the women's giant slalom (11:15)
-https://dlhd.dad/watch.php?id=231
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | rld Cup Competition in Lillehammer 2nd run of the women's giant slalom (11:15)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | rld Cup Competition in Lillehammer 2nd run of the women's giant slalom (11:15)
-https://dlhd.dad/watch.php?id=41
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 2nd run of men's slalom (12:30)
-https://dlhd.dad/watch.php?id=82
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 2nd run of men's slalom (12:30)
-https://dlhd.dad/watch.php?id=57
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 2nd run of men's slalom (12:30)
-https://dlhd.dad/watch.php?id=524
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 2nd run of men's slalom (12:30)
-https://dlhd.dad/watch.php?id=772
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 2nd run of men's slalom (12:30)
-https://dlhd.dad/watch.php?id=231
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 2nd run of men's slalom (12:30)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 group-title="Live Events",Alpine Ski | World Cup Competition in Lillehammer 2nd run of men's slalom (12:30)
-https://dlhd.dad/watch.php?id=41
-
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : Los Angeles Angels vs Los Angeles Dodgers (00:10)
-https://dlhd.dad/watch.php?id=399
-
-#EXTINF:-1 group-title="Live Events",Baseball | Baseball Exhibition: Sultanes de Monterrey vs San Francisco Giants (01:30)
-https://dlhd.dad/watch.php?id=753
-
-#EXTINF:-1 group-title="Live Events",Baseball | Baseball Champions League Americas : Taiwan vs Cuba (16:00)
-https://dlhd.dad/watch.php?id=21
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Old Dominion vs Richmond (18:00)
-https://dlhd.dad/watch.php?id=162
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Youngstown State vs Pittsburgh (19:00)
-https://dlhd.dad/watch.php?id=163
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Merrimack vs Boston College (19:00)
-https://dlhd.dad/watch.php?id=164
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Saint Peter's vs La Salle (19:00)
-https://dlhd.dad/watch.php?id=165
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Fairleigh Dickinson vs Lehigh (19:00)
-https://dlhd.dad/watch.php?id=166
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Manhattan vs Columbia (19:30)
-https://dlhd.dad/watch.php?id=167
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : UIC vs Purdue (20:00)
-https://dlhd.dad/watch.php?id=168
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Presbyterian vs The Citadel (20:00)
-https://dlhd.dad/watch.php?id=169
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Bucknell vs Penn State (21:30)
-https://dlhd.dad/watch.php?id=170
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Oregon vs UC San Diego. (21:30)
-https://dlhd.dad/watch.php?id=171
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : St. Thomas (MN) vs Minnesota (22:00)
-https://dlhd.dad/watch.php?id=172
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : South Dakota State vs Creighton (23:00)
-https://dlhd.dad/watch.php?id=173
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Abilene Christian vs Stephen F. Austin (23:00)
-https://dlhd.dad/watch.php?id=174
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Missouri vs Lindenwood (23:00)
-https://dlhd.dad/watch.php?id=151
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Rice vs Houston Christian (23:30)
-https://dlhd.dad/watch.php?id=152
-
-#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Grambling State vs Tulane (23:30)
-https://dlhd.dad/watch.php?id=153
-
-#EXTINF:-1 group-title="Live Events",College Softball | College Softball : BYU vs Utah Valley (00:00)
-https://dlhd.dad/watch.php?id=190
-
-#EXTINF:-1 group-title="Live Events",College Softball | College Softball : Grand Canyon vs Arizona (01:00)
-https://dlhd.dad/watch.php?id=191
-
-#EXTINF:-1 group-title="Live Events",College Softball | College Softball : UC Santa Barbara vs California Baptist (01:00)
-https://dlhd.dad/watch.php?id=192
-
-#EXTINF:-1 group-title="Live Events",College Softball | College Softball : Louisville vs Kentucky (21:30)
-https://dlhd.dad/watch.php?id=385
-
-#EXTINF:-1 group-title="Live Events",College Softball | College Softball : Clemson vs South Carolina (23:30)
-https://dlhd.dad/watch.php?id=385
-
-#EXTINF:-1 group-title="Live Events",Basketball | 2026 NIT Basketball Tournament Second Quarterfinal: Saint Joseph's at New Mexico (01:00)
-https://dlhd.dad/watch.php?id=45
-
-#EXTINF:-1 group-title="Live Events",Basketball | Basket League : PAOK vs Mykonos (16:00)
-https://dlhd.dad/watch.php?id=3
-
-#EXTINF:-1 group-title="Live Events",Basketball | Liga Nationala : CSM Oradea vs BC Timisoara (16:00)
-https://dlhd.dad/watch.php?id=584
-
-#EXTINF:-1 group-title="Live Events",Basketball | ABA League 2 : Helios Domzale vs Vojvodina Novi Sad (17:00)
-https://dlhd.dad/watch.php?id=432
-
-#EXTINF:-1 group-title="Live Events",Basketball | ABA League 2 : Helios Domzale vs Vojvodina Novi Sad (17:00)
-https://dlhd.dad/watch.php?id=944
-
-#EXTINF:-1 group-title="Live Events",Basketball | Bulgaria NBL : BC Spartak Pleven vs BC Beroe SZ (17:15)
-https://dlhd.dad/watch.php?id=473
-
-#EXTINF:-1 group-title="Live Events",Basketball | ABA League : Cluj Napoca vs Cedevita Olimpija (18:00)
-https://dlhd.dad/watch.php?id=433
-
-#EXTINF:-1 group-title="Live Events",Basketball | ABA League : Cluj Napoca vs Cedevita Olimpija (18:00)
-https://dlhd.dad/watch.php?id=139
-
-#EXTINF:-1 group-title="Live Events",Basketball | Slovenia 1. A SKL : Perspektiva Ilirija vs Terme Olimia Podcetrtek (18:00)
-https://dlhd.dad/watch.php?id=10
-
-#EXTINF:-1 group-title="Live Events",Basketball | ABA League 2 : Sloboda vs Sutjeska (19:00)
-https://dlhd.dad/watch.php?id=434
-
-#EXTINF:-1 group-title="Live Events",Basketball | ABA League 2 : Sloboda vs Sutjeska (19:00)
-https://dlhd.dad/watch.php?id=944
-
-#EXTINF:-1 group-title="Live Events",Basketball | European North Basketball League : Dinamo Zagreb vs Manchester Basketball (19:00)
-https://dlhd.dad/watch.php?id=779
-
-#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Baskonia vs Crvena zvezda (19:30)
-https://dlhd.dad/watch.php?id=4
-
-#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Baskonia vs Crvena zvezda (19:30)
-https://dlhd.dad/watch.php?id=521
-
-#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Baskonia vs Crvena zvezda (19:30)
-https://dlhd.dad/watch.php?id=134
-
-#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Baskonia vs Crvena zvezda (19:30)
-https://dlhd.dad/watch.php?id=638
-
-#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Baskonia vs Crvena zvezda (19:30)
-https://dlhd.dad/watch.php?id=996
-
-#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Baskonia vs Crvena zvezda (19:30)
-https://dlhd.dad/watch.php?id=473
-
-#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Baskonia vs Crvena zvezda (19:30)
-https://dlhd.dad/watch.php?id=1027
-
-#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Baskonia vs Crvena zvezda (19:30)
-https://dlhd.dad/watch.php?id=101
-
-#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Baskonia vs Crvena zvezda (19:30)
-https://dlhd.dad/watch.php?id=145
-
-#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : TBD vs TBD (01:00)
-https://dlhd.dad/watch.php?id=45
-
-#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : Oklahoma Baptist vs Cal State East Bay (18:30)
-https://dlhd.dad/watch.php?id=175
-
-#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : Nova Southeastern vs Black Hills State (22:00)
-https://dlhd.dad/watch.php?id=176
-
-#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : Illinois State vs Dayton (23:00)
-https://dlhd.dad/watch.php?id=45
-
-#EXTINF:-1 group-title="Live Events",NBA G League | NBA G League : Windy City Bulls vs Birmingham Squadron (00:00)
-https://dlhd.dad/watch.php?id=68
-
-#EXTINF:-1 group-title="Live Events",NBA G League | NBA G League : Rio Grande Valley Vipers vs Oklahoma City Blue (00:00)
-https://dlhd.dad/watch.php?id=69
-
-#EXTINF:-1 group-title="Live Events",NBA G League | NBA G League : Santa Cruz Warriors vs Salt Lake City Stars (00:00)
-https://dlhd.dad/watch.php?id=753
-
-#EXTINF:-1 group-title="Live Events",NBA G League | NBA G-League : South Bay Lakers vs Stockton Kings (02:00)
-https://dlhd.dad/watch.php?id=982
-
-#EXTINF:-1 group-title="Live Events",NBA G League | NBA G-League : Valley Suns vs Mexico City Capitanes (03:00)
-https://dlhd.dad/watch.php?id=76
-
-#EXTINF:-1 group-title="Live Events",NBA G League | NBA G-League : College Park Skyhawks vs Lakeland Magic (23:00)
-https://dlhd.dad/watch.php?id=161
-
-#EXTINF:-1 group-title="Live Events",NBA G League | NBA G-League : Long Island Nets vs Delaware 87ers (23:00)
-https://dlhd.dad/watch.php?id=162
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=3
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=53
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=37
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=899
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=769
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=556
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=116
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=49
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=134
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=625
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=420
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=98
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=61
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=101
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Orlando Magic (00:00)
-https://dlhd.dad/watch.php?id=4067
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=4
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=53
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=769
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=37
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=923
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=557
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=556
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=116
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=379
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=134
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=625
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=61
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=98
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=144
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=4068
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Detroit Pistons vs Atlanta Hawks (23:00)
-https://dlhd.dad/watch.php?id=2
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Detroit Pistons vs Atlanta Hawks (23:00)
-https://dlhd.dad/watch.php?id=44
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Detroit Pistons vs Atlanta Hawks (23:00)
-https://dlhd.dad/watch.php?id=386
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Detroit Pistons vs Atlanta Hawks (23:00)
-https://dlhd.dad/watch.php?id=926
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Detroit Pistons vs Atlanta Hawks (23:00)
-https://dlhd.dad/watch.php?id=904
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Detroit Pistons vs Atlanta Hawks (23:00)
-https://dlhd.dad/watch.php?id=375
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Detroit Pistons vs Atlanta Hawks (23:00)
-https://dlhd.dad/watch.php?id=116
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Detroit Pistons vs Atlanta Hawks (23:00)
-https://dlhd.dad/watch.php?id=625
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Detroit Pistons vs Atlanta Hawks (23:00)
-https://dlhd.dad/watch.php?id=798
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Detroit Pistons vs Atlanta Hawks (23:00)
-https://dlhd.dad/watch.php?id=98
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Detroit Pistons vs Atlanta Hawks (23:00)
-https://dlhd.dad/watch.php?id=61
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Indiana Pacers vs Los Angeles Lakers (23:00)
-https://dlhd.dad/watch.php?id=3
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Indiana Pacers vs Los Angeles Lakers (23:00)
-https://dlhd.dad/watch.php?id=982
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Indiana Pacers vs Los Angeles Lakers (23:00)
-https://dlhd.dad/watch.php?id=114
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Indiana Pacers vs Los Angeles Lakers (23:00)
-https://dlhd.dad/watch.php?id=111
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Indiana Pacers vs Los Angeles Lakers (23:00)
-https://dlhd.dad/watch.php?id=894
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Indiana Pacers vs Los Angeles Lakers (23:00)
-https://dlhd.dad/watch.php?id=101
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Chicago Bulls (23:00)
-https://dlhd.dad/watch.php?id=4
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Chicago Bulls (23:00)
-https://dlhd.dad/watch.php?id=777
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Philadelphia 76ers vs Chicago Bulls (23:00)
-https://dlhd.dad/watch.php?id=776
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Boston Celtics vs Oklahoma City Thunder (23:30)
-https://dlhd.dad/watch.php?id=5
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Boston Celtics vs Oklahoma City Thunder (23:30)
-https://dlhd.dad/watch.php?id=754
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Boston Celtics vs Oklahoma City Thunder (23:30)
-https://dlhd.dad/watch.php?id=409
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Boston Celtics vs Oklahoma City Thunder (23:30)
-https://dlhd.dad/watch.php?id=895
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Boston Celtics vs Oklahoma City Thunder (23:30)
-https://dlhd.dad/watch.php?id=900
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Boston Celtics vs Oklahoma City Thunder (23:30)
-https://dlhd.dad/watch.php?id=49
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Boston Celtics vs Oklahoma City Thunder (23:30)
-https://dlhd.dad/watch.php?id=134
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Boston Celtics vs Oklahoma City Thunder (23:30)
-https://dlhd.dad/watch.php?id=144
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Miami Heat (23:30)
-https://dlhd.dad/watch.php?id=6
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Miami Heat (23:30)
-https://dlhd.dad/watch.php?id=905
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Miami Heat (23:30)
-https://dlhd.dad/watch.php?id=899
-
-#EXTINF:-1 group-title="Live Events",Cycling | Tour of Bruges But | Bruges (202.9km) (14:15)
-https://dlhd.dad/watch.php?id=32
-
-#EXTINF:-1 group-title="Live Events",Cycling | Tour of Bruges But | Bruges (202.9km) (14:15)
-https://dlhd.dad/watch.php?id=57
-
-#EXTINF:-1 group-title="Live Events",Cycling | Tour of Bruges But | Bruges (202.9km) (14:15)
-https://dlhd.dad/watch.php?id=524
-
-#EXTINF:-1 group-title="Live Events",Cycling | Tour of Bruges But | Bruges (202.9km) (14:15)
-https://dlhd.dad/watch.php?id=772
-
-#EXTINF:-1 group-title="Live Events",Cycling | Tour of Bruges But | Bruges (202.9km) (14:15)
-https://dlhd.dad/watch.php?id=231
-
-#EXTINF:-1 group-title="Live Events",Cycling | Tour of Bruges But | Bruges (202.9km) (14:15)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 group-title="Live Events",Cycling | Tour of Bruges But | Bruges (202.9km) (14:15)
-https://dlhd.dad/watch.php?id=41
-
-#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 3 I | Mont-roig Del Camp - Vila-seca (159.5km) (14:45)
-https://dlhd.dad/watch.php?id=31
-
-#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 3 I | Mont-roig Del Camp - Vila-seca (159.5km) (14:45)
-https://dlhd.dad/watch.php?id=588
-
-#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 3 I | Mont-roig Del Camp - Vila-seca (159.5km) (14:45)
-https://dlhd.dad/watch.php?id=58
-
-#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 3 I | Mont-roig Del Camp - Vila-seca (159.5km) (14:45)
-https://dlhd.dad/watch.php?id=525
-
-#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 3 I | Mont-roig Del Camp - Vila-seca (159.5km) (14:45)
-https://dlhd.dad/watch.php?id=773
-
-#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 3 I | Mont-roig Del Camp - Vila-seca (159.5km) (14:45)
-https://dlhd.dad/watch.php?id=232
-
-#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 3 I | Mont-roig Del Camp - Vila-seca (159.5km) (14:45)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 3 I | Mont-roig Del Camp - Vila-seca (159.5km) (14:45)
-https://dlhd.dad/watch.php?id=42
-
-#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 3 I | Mont-roig Del Camp - Vila-seca (159.5km) (14:45)
-https://dlhd.dad/watch.php?id=232
-
-#EXTINF:-1 group-title="Live Events",Lacrosse | College Lacrosse : Quinnipiac vs Merrimack (20:00)
-https://dlhd.dad/watch.php?id=160
-
-#EXTINF:-1 group-title="Live Events",Lacrosse | College Lacrosse : Sacred Heart vs Manhattan (20:00)
-https://dlhd.dad/watch.php?id=161
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Vanderbilt vs Louisville (16:00)
-https://dlhd.dad/watch.php?id=110
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Old Dominion vs Coastal Carolina (16:00)
-https://dlhd.dad/watch.php?id=151
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Longwood vs Wofford (16:00)
-https://dlhd.dad/watch.php?id=152
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Loyola Maryland vs American (17:00)
-https://dlhd.dad/watch.php?id=153
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Fairfield vs Sacred Heart (19:00)
-https://dlhd.dad/watch.php?id=154
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Marist vs Mount St. Mary's. (19:00)
-https://dlhd.dad/watch.php?id=155
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Manhattan vs Rider (19:00)
-https://dlhd.dad/watch.php?id=156
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Quinnipiac vs Canisius (19:00)
-https://dlhd.dad/watch.php?id=157
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Merrimack vs Siena (19:00)
-https://dlhd.dad/watch.php?id=158
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : High Point vs Winthrop (20:00)
-https://dlhd.dad/watch.php?id=159
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Colgate vs Bucknell (21:00)
-https://dlhd.dad/watch.php?id=105
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Lehigh vs Navy (22:00)
-https://dlhd.dad/watch.php?id=106
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : James Madison vs Virginia (22:00)
-https://dlhd.dad/watch.php?id=107
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Northwestern vs North Carolina (22:00)
-https://dlhd.dad/watch.php?id=316
-
-#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Furman vs Presbyterian (23:00)
-https://dlhd.dad/watch.php?id=109
-
-#EXTINF:-1 group-title="Live Events",Futsal | Champions League Final New Belgrade (09:00)
-https://dlhd.dad/watch.php?id=134
-
-#EXTINF:-1 group-title="Live Events",Handball | Slovenian League : Krka vs Celje (17:00)
-https://dlhd.dad/watch.php?id=101
-
-#EXTINF:-1 group-title="Live Events",Handball | Norway Eliteserien, Women : Fana vs Larvik HK (17:15)
-https://dlhd.dad/watch.php?id=11
-
-#EXTINF:-1 group-title="Live Events",Handball | Handball-Bundesliga Women : Zwickau W vs Oldenburg W (18:00)
-https://dlhd.dad/watch.php?id=86
-
-#EXTINF:-1 group-title="Live Events",Handball | LFH Women : Saint Amand W vs Chambray Touraine W (18:30)
-https://dlhd.dad/watch.php?id=118
-
-#EXTINF:-1 group-title="Live Events",Handball | PGNiG Superliga : MKS Perla Lublin W vs Zaglebie W (19:30)
-https://dlhd.dad/watch.php?id=129
-
-#EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from around the UK (13:30)
-https://dlhd.dad/watch.php?id=554
-
-#EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from Kempton (17:00)
-https://dlhd.dad/watch.php?id=555
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : San Jose Sharks vs Nashville Predators (00:00)
-https://dlhd.dad/watch.php?id=13
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : San Jose Sharks vs Nashville Predators (00:00)
-https://dlhd.dad/watch.php?id=903
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : San Jose Sharks vs Nashville Predators (00:00)
-https://dlhd.dad/watch.php?id=904
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : San Jose Sharks vs Nashville Predators (00:00)
-https://dlhd.dad/watch.php?id=755
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : San Jose Sharks vs Nashville Predators (00:00)
-https://dlhd.dad/watch.php?id=4059
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : New Jersey Devils vs Dallas Stars (00:00)
-https://dlhd.dad/watch.php?id=14
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : New Jersey Devils vs Dallas Stars (00:00)
-https://dlhd.dad/watch.php?id=4060
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Winnipeg Jets (00:00)
-https://dlhd.dad/watch.php?id=15
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Winnipeg Jets (00:00)
+#EXTINF:-1 group-title="Live Events",Tennis | WTA Miami Open (19:00)
 https://dlhd.dad/watch.php?id=113
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Winnipeg Jets (00:00)
-https://dlhd.dad/watch.php?id=4061
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs St. Louis Blues (00:00)
-https://dlhd.dad/watch.php?id=16
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs St. Louis Blues (00:00)
-https://dlhd.dad/watch.php?id=894
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs St. Louis Blues (00:00)
-https://dlhd.dad/watch.php?id=895
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs St. Louis Blues (00:00)
-https://dlhd.dad/watch.php?id=896
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs St. Louis Blues (00:00)
-https://dlhd.dad/watch.php?id=778
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Washington Capitals vs St. Louis Blues (00:00)
-https://dlhd.dad/watch.php?id=4058
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Calgary Flames (01:00)
-https://dlhd.dad/watch.php?id=17
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Calgary Flames (01:00)
-https://dlhd.dad/watch.php?id=906
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Calgary Flames (01:00)
-https://dlhd.dad/watch.php?id=407
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Calgary Flames (01:00)
-https://dlhd.dad/watch.php?id=4062
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Edmonton Oilers vs Utah Mammoth (01:30)
-https://dlhd.dad/watch.php?id=18
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Edmonton Oilers vs Utah Mammoth (01:30)
-https://dlhd.dad/watch.php?id=411
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Edmonton Oilers vs Utah Mammoth (01:30)
-https://dlhd.dad/watch.php?id=833
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Edmonton Oilers vs Utah Mammoth (01:30)
-https://dlhd.dad/watch.php?id=406
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Edmonton Oilers vs Utah Mammoth (01:30)
-https://dlhd.dad/watch.php?id=408
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Edmonton Oilers vs Utah Mammoth (01:30)
-https://dlhd.dad/watch.php?id=4063
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Anaheim Ducks vs Vancouver Canucks (02:00)
-https://dlhd.dad/watch.php?id=19
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Anaheim Ducks vs Vancouver Canucks (02:00)
-https://dlhd.dad/watch.php?id=451
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Anaheim Ducks vs Vancouver Canucks (02:00)
-https://dlhd.dad/watch.php?id=20
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Anaheim Ducks vs Vancouver Canucks (02:00)
-https://dlhd.dad/watch.php?id=147
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Anaheim Ducks vs Vancouver Canucks (02:00)
-https://dlhd.dad/watch.php?id=4064
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Boston Bruins vs Buffalo Sabres (23:30)
-https://dlhd.dad/watch.php?id=14
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Boston Bruins vs Buffalo Sabres (23:30)
-https://dlhd.dad/watch.php?id=550
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Boston Bruins vs Buffalo Sabres (23:30)
-https://dlhd.dad/watch.php?id=338
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Boston Bruins vs Buffalo Sabres (23:30)
-https://dlhd.dad/watch.php?id=341
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Boston Bruins vs Buffalo Sabres (23:30)
-https://dlhd.dad/watch.php?id=762
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Boston Bruins vs Buffalo Sabres (23:30)
+#EXTINF:-1 group-title="Live Events",Tennis | WTA Miami Open (19:00)
 https://dlhd.dad/watch.php?id=834
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Boston Bruins vs Buffalo Sabres (23:30)
-https://dlhd.dad/watch.php?id=454
+#EXTINF:-1 group-title="Live Events",WWE (AEW) | All Elite Wrestling AEW : Dynamite (00:00)
+https://dlhd.dad/watch.php?id=336
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Boston Bruins vs Buffalo Sabres (23:30)
-https://dlhd.dad/watch.php?id=557
+#EXTINF:-1 group-title="Live Events",WWE (AEW) | All Elite Wrestling AEW : Dynamite (00:00)
+https://dlhd.dad/watch.php?id=112
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Boston Bruins vs Buffalo Sabres (23:30)
-https://dlhd.dad/watch.php?id=16
+#EXTINF:-1 group-title="Live Events",WWE (AEW) | All Elite Wrestling AEW : Dynamite (00:00)
+https://dlhd.dad/watch.php?id=830
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Boston Bruins vs Buffalo Sabres (23:30)
-https://dlhd.dad/watch.php?id=494
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : New York Yankees vs San Francisco Giants (00:05)
+https://dlhd.dad/watch.php?id=1
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs Toronto Maple Leafs (23:30)
-https://dlhd.dad/watch.php?id=15
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : New York Yankees vs San Francisco Giants (00:05)
+https://dlhd.dad/watch.php?id=411
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs Toronto Maple Leafs (23:30)
-https://dlhd.dad/watch.php?id=451
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : New York Yankees vs San Francisco Giants (00:05)
+https://dlhd.dad/watch.php?id=31
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs Toronto Maple Leafs (23:30)
-https://dlhd.dad/watch.php?id=765
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : New York Yankees vs San Francisco Giants (00:05)
+https://dlhd.dad/watch.php?id=495
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs Toronto Maple Leafs (23:30)
-https://dlhd.dad/watch.php?id=833
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Pittsburgh Pirates vs New York Mets (17:15)
+https://dlhd.dad/watch.php?id=31
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs Toronto Maple Leafs (23:30)
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Pittsburgh Pirates vs New York Mets (17:15)
+https://dlhd.dad/watch.php?id=769
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Pittsburgh Pirates vs New York Mets (17:15)
+https://dlhd.dad/watch.php?id=53
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Pittsburgh Pirates vs New York Mets (17:15)
+https://dlhd.dad/watch.php?id=845
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Pittsburgh Pirates vs New York Mets (17:15)
+https://dlhd.dad/watch.php?id=117
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Pittsburgh Pirates vs New York Mets (17:15)
+https://dlhd.dad/watch.php?id=433
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago White Sox vs Milwaukee Brewers (18:10)
 https://dlhd.dad/watch.php?id=406
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs Toronto Maple Leafs (23:30)
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago White Sox vs Milwaukee Brewers (18:10)
 https://dlhd.dad/watch.php?id=407
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs Toronto Maple Leafs (23:30)
-https://dlhd.dad/watch.php?id=408
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago White Sox vs Milwaukee Brewers (18:10)
+https://dlhd.dad/watch.php?id=776
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Rangers vs Toronto Maple Leafs (23:30)
-https://dlhd.dad/watch.php?id=17
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Washington Nationals vs Chicago Cubs (18:20)
+https://dlhd.dad/watch.php?id=770
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia MHL HC Taifun U20 vs Dinamo St. Petersburg U20 (09:00)
-https://dlhd.dad/watch.php?id=4
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Minnesota Twins vs Baltimore Orioles (19:05)
+https://dlhd.dad/watch.php?id=829
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia KHL : Avtomobilist Yekaterinburg vs Salavat Yulaev Ufa (14:00)
-https://dlhd.dad/watch.php?id=4
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Detroit Tigers vs San Diego Padres (20:10)
+https://dlhd.dad/watch.php?id=399
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia KHL : Avtomobilist Yekaterinburg vs Salavat Yulaev Ufa (14:00)
-https://dlhd.dad/watch.php?id=9
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Boston Red Sox vs Cincinnati Reds (20:10)
+https://dlhd.dad/watch.php?id=399
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Czech Republic Extraliga : Trinec vs Mountfield HK (16:00)
-https://dlhd.dad/watch.php?id=1028
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Boston Red Sox vs Cincinnati Reds (20:10)
+https://dlhd.dad/watch.php?id=762
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Slovakia Tipsport liga : Michalovce vs Nitra (16:30)
-https://dlhd.dad/watch.php?id=14
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Boston Red Sox vs Cincinnati Reds (20:10)
+https://dlhd.dad/watch.php?id=411
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia KHL : Severstal Cherepovets vs Torpedo Nizhny Novgorod (16:30)
-https://dlhd.dad/watch.php?id=4
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Angels vs Houston Astros (20:10)
+https://dlhd.dad/watch.php?id=407
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia KHL : Ak Bars Kazan vs Traktor Chelyabinsk (16:30)
-https://dlhd.dad/watch.php?id=7
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Angels vs Houston Astros (20:10)
+https://dlhd.dad/watch.php?id=921
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia KHL : CSKA Moscow vs SKA St. Petersburg (16:30)
-https://dlhd.dad/watch.php?id=127
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Angels vs Houston Astros (20:10)
+https://dlhd.dad/watch.php?id=896
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Slovakia Tipsport liga : Liptovsky Mikulas vs Slovan Bratislava (17:00)
-https://dlhd.dad/watch.php?id=15
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Texas Rangers vs Philadelphia Phillies (20:15)
+https://dlhd.dad/watch.php?id=777
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Czech Republic Extraliga : Karlovy Vary vs Liberec (17:30)
-https://dlhd.dad/watch.php?id=1033
+#EXTINF:-1 group-title="Live Events",Baseball | Baseball Champions League Americas : Mexico vs Nicaragua (01:00)
+https://dlhd.dad/watch.php?id=21
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Norway Elite Hockey Ligaen : Stavanger Oilers vs Storhamar Ishockey (18:00)
-https://dlhd.dad/watch.php?id=11
+#EXTINF:-1 group-title="Live Events",Baseball | Baseball Champions League Americas : Taiwan vs United States (16:00)
+https://dlhd.dad/watch.php?id=1200
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : Skelleftea vs Malmo (18:00)
-https://dlhd.dad/watch.php?id=704
+#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Cal Poly vs Loyola Marymount (01:00)
+https://dlhd.dad/watch.php?id=154
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : Skelleftea vs Malmo (18:00)
-https://dlhd.dad/watch.php?id=12
+#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : New Mexico State vs Arizona State (01:30)
+https://dlhd.dad/watch.php?id=155
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : Frolunda vs Lulea (18:00)
-https://dlhd.dad/watch.php?id=700
+#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Miami vs Clemson (23:00)
+https://dlhd.dad/watch.php?id=664
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | HockeyAllsvenskan : Sodertalje vs Kalmar (18:00)
-https://dlhd.dad/watch.php?id=703
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | DEL : Adler Mannheim vs Bremerhaven (18:00)
-https://dlhd.dad/watch.php?id=5
-
-#EXTINF:-1 group-title="Live Events",AHL Ice Hockey | AHL : Charlotte Checkers vs Bridgeport Islanders (23:00)
-https://dlhd.dad/watch.php?id=179
-
-#EXTINF:-1 group-title="Live Events",AHL Ice Hockey | AHL : Utica Comets vs Laval Rocket (23:00)
-https://dlhd.dad/watch.php?id=180
-
-#EXTINF:-1 group-title="Live Events",AHL Ice Hockey | AHL : Utica Comets vs Laval Rocket (23:00)
-https://dlhd.dad/watch.php?id=839
-
-#EXTINF:-1 group-title="Live Events",AHL Ice Hockey | AHL : Manitoba Moose vs Toronto Marlies (23:00)
-https://dlhd.dad/watch.php?id=181
-
-#EXTINF:-1 group-title="Live Events",AHL Ice Hockey | AHL : Providence Bruins vs Springfield Thunderbirds (23:05)
-https://dlhd.dad/watch.php?id=182
-
-#EXTINF:-1 group-title="Live Events",ECHL Ice Hockey | ECHL : Kansas City vs Wichita Thunder (00:05)
-https://dlhd.dad/watch.php?id=105
-
-#EXTINF:-1 group-title="Live Events",ECHL Ice Hockey | ECHL : Norfolk Admirals vs Reading Royals (23:00)
-https://dlhd.dad/watch.php?id=165
-
-#EXTINF:-1 group-title="Live Events",ECHL Ice Hockey | ECHL : Savannah Ghost Pirates vs Florida Everblades (23:30)
-https://dlhd.dad/watch.php?id=166
-
-#EXTINF:-1 group-title="Live Events",PWHL Ice Hockey | PWHL : Montreal vs Minnesota Frost (23:10)
-https://dlhd.dad/watch.php?id=115
-
-#EXTINF:-1 group-title="Live Events",PWHL Ice Hockey | PWHL : Montreal vs Minnesota Frost (23:10)
-https://dlhd.dad/watch.php?id=840
-
-#EXTINF:-1 group-title="Live Events",PWHL Ice Hockey | PWHL : Montreal vs Minnesota Frost (23:10)
-https://dlhd.dad/watch.php?id=892
-
-#EXTINF:-1 group-title="Live Events",PWHL Ice Hockey | PWHL : Montreal vs Minnesota Frost (23:10)
-https://dlhd.dad/watch.php?id=903
-
-#EXTINF:-1 group-title="Live Events",PWHL Ice Hockey | PWHL : Montreal vs Minnesota Frost (23:10)
-https://dlhd.dad/watch.php?id=906
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Russia United League : Avtodor Saratov vs MBA-MAI Moscow (15:00)
-https://dlhd.dad/watch.php?id=8
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Turkish Cup Women Finale (16:00)
-https://dlhd.dad/watch.php?id=6
-
-#EXTINF:-1 group-title="Live Events",Volleyball | PolandLiga Siatkowki, Women : BKS Stal Bielsko-Biała vs ŁKS Commercecon Łódź (16:30)
-https://dlhd.dad/watch.php?id=50
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Bulgaria SuperLiga : Deya Volley vs Neftohimic Burgas (17:00)
-https://dlhd.dad/watch.php?id=472
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Champions League : Rzeszow vs Ziraat Bankasi (17:00)
-https://dlhd.dad/watch.php?id=47
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Champions League : Rzeszow vs Ziraat Bankasi (17:00)
-https://dlhd.dad/watch.php?id=994
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Champions League : Rzeszow vs Ziraat Bankasi (17:00)
-https://dlhd.dad/watch.php?id=8
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Champions League : Rzeszow vs Ziraat Bankasi (17:00)
-https://dlhd.dad/watch.php?id=135
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Champions League : Rzeszow vs Ziraat Bankasi (17:00)
-https://dlhd.dad/watch.php?id=474
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Champions League : Rzeszow vs Ziraat Bankasi (17:00)
-https://dlhd.dad/watch.php?id=140
-
-#EXTINF:-1 group-title="Live Events",Volleyball | 1. Bundesliga, Women : Allianz MTV Stuttgart vs SWE Volleyteam (17:30)
-https://dlhd.dad/watch.php?id=106
-
-#EXTINF:-1 group-title="Live Events",Volleyball | 1. Bundesliga, Women : VfB Suhl vs VC Wiesbaden (18:00)
-https://dlhd.dad/watch.php?id=107
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Slovenia1. A SKL : Perspektiva Ilirija vs Terme Olimia Podcetrtek (18:00)
-https://dlhd.dad/watch.php?id=13
-
-#EXTINF:-1 group-title="Live Events",Volleyball | 1. Bundesliga, Women : USC Münster vs Dresdner SC (18:30)
-https://dlhd.dad/watch.php?id=108
-
-#EXTINF:-1 group-title="Live Events",Volleyball | 1. Bundesliga, Women : Ladies in Black Aachen vs Schweriner SC (19:00)
-https://dlhd.dad/watch.php?id=109
-
-#EXTINF:-1 group-title="Live Events",Volleyball | PolandLiga Siatkowki Women : Budowlani Łódź vs Chemik Police (19:00)
-https://dlhd.dad/watch.php?id=50
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Slovenian League: Playoff 1/4 Finals (G1) : Maribor vs Pomgrad (19:00)
-https://dlhd.dad/watch.php?id=103
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Serie A1 Women : Scandicci W vs Monza W (19:30)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Serie A1 Women : Scandicci W vs Monza W (19:30)
-https://dlhd.dad/watch.php?id=992
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Champions League : Lube Civitanova vs Aluron Warta (19:30)
-https://dlhd.dad/watch.php?id=47
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Champions League : Lube Civitanova vs Aluron Warta (19:30)
-https://dlhd.dad/watch.php?id=994
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Champions League : Lube Civitanova vs Aluron Warta (19:30)
-https://dlhd.dad/watch.php?id=8
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Champions League : Lube Civitanova vs Aluron Warta (19:30)
-https://dlhd.dad/watch.php?id=135
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Champions League : Lube Civitanova vs Aluron Warta (19:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Champions League : Lube Civitanova vs Aluron Warta (19:30)
-https://dlhd.dad/watch.php?id=474
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Challenge Cup : Lindemans Aalst vs Milano (19:30)
-https://dlhd.dad/watch.php?id=993
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Challenge Cup : Lindemans Aalst vs Milano (19:30)
-https://dlhd.dad/watch.php?id=628
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Challenge Cup : Lindemans Aalst vs Milano (19:30)
-https://dlhd.dad/watch.php?id=140
-
-#EXTINF:-1 group-title="Live Events",College Volleyball | College Volleyball : Cal Lutheran vs UC Santa Barbara (02:00)
-https://dlhd.dad/watch.php?id=106
-
-#EXTINF:-1 group-title="Live Events",College Volleyball | College Volleyball : Nicholls vs Merrimack (22:00)
-https://dlhd.dad/watch.php?id=110
-
-#EXTINF:-1 group-title="Live Events",Water polo | LEN Champions League : Hannover vs Ferencvarosi (19:30)
-https://dlhd.dad/watch.php?id=6
-
-#EXTINF:-1 group-title="Live Events",Water polo | LEN Champions League : Hannover vs Ferencvarosi (19:30)
-https://dlhd.dad/watch.php?id=580
-
-#EXTINF:-1 group-title="Live Events",Water polo | LEN Champions League : Hannover vs Ferencvarosi (19:30)
-https://dlhd.dad/watch.php?id=7
-
-#EXTINF:-1 group-title="Live Events",Water polo | LEN Champions League : Pro Recco vs Mladost (19:30)
-https://dlhd.dad/watch.php?id=9
-
-#EXTINF:-1 group-title="Live Events",Water polo | LEN Champions League : Pro Recco vs Mladost (19:30)
-https://dlhd.dad/watch.php?id=432
-
-#EXTINF:-1 group-title="Live Events",Water polo | LEN Champions League : Pro Recco vs Mladost (19:30)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 group-title="Live Events",Water polo | LEN Champions League : Pro Recco vs Mladost (19:30)
-https://dlhd.dad/watch.php?id=429
-
-#EXTINF:-1 group-title="Live Events",England - National League | England - National League : Southend United vs Woking (19:45)
-https://dlhd.dad/watch.php?id=55
-
-#EXTINF:-1 group-title="Live Events",England - National League | England - National League : Truro City vs Solihull Moors (19:45)
-https://dlhd.dad/watch.php?id=59
-
-#EXTINF:-1 group-title="Live Events",England - National League | England - National League : Scunthorpe United vs Rochdale (19:45)
-https://dlhd.dad/watch.php?id=68
-
-#EXTINF:-1 group-title="Live Events",England - National League | England - National League : Morecambe vs Hartlepool United (19:45)
+#EXTINF:-1 group-title="Live Events",College Baseball | College Baseball : Oklahoma State vs BYU (23:00)
 https://dlhd.dad/watch.php?id=69
 
-#EXTINF:-1 group-title="Live Events",England - National League | England - National League : Tamworth vs Forest Green Rovers (19:45)
+#EXTINF:-1 group-title="Live Events",College Softball | College Softball : Liberty vs Virginia (00:00)
+https://dlhd.dad/watch.php?id=664
+
+#EXTINF:-1 group-title="Live Events",College Softball | College Softball : Oregon vs Northwestern (18:00)
+https://dlhd.dad/watch.php?id=397
+
+#EXTINF:-1 group-title="Live Events",College Softball | College Softball : St. Francis (PA) vs Bucknell (18:00)
+https://dlhd.dad/watch.php?id=59
+
+#EXTINF:-1 group-title="Live Events",College Softball | College Softball : Seattle U vs Creighton (22:00)
 https://dlhd.dad/watch.php?id=76
 
-#EXTINF:-1 group-title="Live Events",England - National League | England - National League : Wealdstone vs Yeovil Town (19:45)
-https://dlhd.dad/watch.php?id=77
+#EXTINF:-1 group-title="Live Events",Basketball | Vtb kup : UNICS vs Zenit (16:00)
+https://dlhd.dad/watch.php?id=20
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Australia - A-League Women : Central Coast Mariners vs Wellington Phoenix (08:00)
-https://dlhd.dad/watch.php?id=33
+#EXTINF:-1 group-title="Live Events",Basketball | Vtb kup : UNICS vs Zenit (16:00)
+https://dlhd.dad/watch.php?id=135
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Australia - A-League Women : Central Coast Mariners vs Wellington Phoenix (08:00)
-https://dlhd.dad/watch.php?id=588
+#EXTINF:-1 group-title="Live Events",Basketball | Polish Basketball League : Górnik Wałbrzych vs MKS Dąbrowa Górnicza (17:00)
+https://dlhd.dad/watch.php?id=996
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - U19 Euro Qualifying : Croatia U19 vs Switzerland U19 (11:00)
-https://dlhd.dad/watch.php?id=780
+#EXTINF:-1 group-title="Live Events",Basketball | BBL : Jena vs Hamburg (18:45)
+https://dlhd.dad/watch.php?id=68
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Friendly : Kazakhstan vs Namibia (12:00)
-https://dlhd.dad/watch.php?id=756
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Bayern vs Lyon-Villeurbanne (19:30)
+https://dlhd.dad/watch.php?id=12
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Friendly : Kazakhstan vs Namibia (12:00)
-https://dlhd.dad/watch.php?id=590
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Bayern vs Lyon-Villeurbanne (19:30)
+https://dlhd.dad/watch.php?id=527
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Friendly : Kazakhstan vs Namibia (12:00)
-https://dlhd.dad/watch.php?id=1
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Bayern vs Lyon-Villeurbanne (19:30)
+https://dlhd.dad/watch.php?id=581
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Friendly : Kazakhstan vs Namibia (12:00)
-https://dlhd.dad/watch.php?id=50
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Bayern vs Lyon-Villeurbanne (19:30)
+https://dlhd.dad/watch.php?id=632
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Friendly : Kazakhstan vs Namibia (12:00)
-https://dlhd.dad/watch.php?id=400
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Olimpia Milano vs Virtus Bologna (19:30)
+https://dlhd.dad/watch.php?id=13
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Friendly : Kazakhstan vs Namibia (12:00)
-https://dlhd.dad/watch.php?id=48
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Olimpia Milano vs Virtus Bologna (19:30)
+https://dlhd.dad/watch.php?id=436
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Friendly : Kazakhstan vs Namibia (12:00)
-https://dlhd.dad/watch.php?id=101
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Olimpia Milano vs Virtus Bologna (19:30)
+https://dlhd.dad/watch.php?id=11
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Futsal Euro : Italy vs Portugal (13:55)
-https://dlhd.dad/watch.php?id=540
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Olimpia Milano vs Virtus Bologna (19:30)
+https://dlhd.dad/watch.php?id=633
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | U17 UEFA European Championship : Slovenia U17 vs France U17 (15:00)
-https://dlhd.dad/watch.php?id=10
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Olimpia Milano vs Virtus Bologna (19:30)
+https://dlhd.dad/watch.php?id=473
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Portugal - Liga Revelação : União de Leiria U23 vs Farense U23 (15:00)
-https://dlhd.dad/watch.php?id=540
+#EXTINF:-1 group-title="Live Events",Basketball | ABA League : Vienna Basket vs Borac (19:30)
+https://dlhd.dad/watch.php?id=941
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Poland - Extraklasa Women : Górnik Łęczna vs UKS Łódź (15:00)
-https://dlhd.dad/watch.php?id=128
+#EXTINF:-1 group-title="Live Events",Basketball | ABA League : Vienna Basket vs Borac (19:30)
+https://dlhd.dad/watch.php?id=432
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Qatar - QSL Cup : Al Mu'aidar vs Al Markhiya (15:15)
-https://dlhd.dad/watch.php?id=781
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Real Madrid vs Anadolu Efes (19:45)
+https://dlhd.dad/watch.php?id=14
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Qatar - QSL Cup : Al Mu'aidar vs Al Markhiya (15:15)
-https://dlhd.dad/watch.php?id=783
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Real Madrid vs Anadolu Efes (19:45)
+https://dlhd.dad/watch.php?id=521
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Euro U17 : Serbia U17 vs Cyprus U17 (16:00)
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Real Madrid vs Anadolu Efes (19:45)
 https://dlhd.dad/watch.php?id=139
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - U19 Euro Qualifying : Germany U19 vs Sweden U19 (17:00)
-https://dlhd.dad/watch.php?id=1
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Real Madrid vs Anadolu Efes (19:45)
+https://dlhd.dad/watch.php?id=634
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Qatar - QSL Cup : Al Arabi vs Al Waab (17:15)
-https://dlhd.dad/watch.php?id=783
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Real Madrid vs Anadolu Efes (19:45)
+https://dlhd.dad/watch.php?id=996
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Real Madrid vs Barcelona (17:45)
-https://dlhd.dad/watch.php?id=308
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Real Madrid vs Anadolu Efes (19:45)
+https://dlhd.dad/watch.php?id=1027
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Real Madrid vs Barcelona (17:45)
-https://dlhd.dad/watch.php?id=529
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Real Madrid vs Anadolu Efes (19:45)
+https://dlhd.dad/watch.php?id=472
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Real Madrid vs Barcelona (17:45)
-https://dlhd.dad/watch.php?id=720
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Real Madrid vs Anadolu Efes (19:45)
+https://dlhd.dad/watch.php?id=104
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Real Madrid vs Barcelona (17:45)
-https://dlhd.dad/watch.php?id=379
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Real Madrid vs Anadolu Efes (19:45)
+https://dlhd.dad/watch.php?id=145
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Real Madrid vs Barcelona (17:45)
-https://dlhd.dad/watch.php?id=712
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Maccabi Tel Aviv vs Dubai (19:45)
+https://dlhd.dad/watch.php?id=15
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Real Madrid vs Barcelona (17:45)
-https://dlhd.dad/watch.php?id=2
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Maccabi Tel Aviv vs Dubai (19:45)
+https://dlhd.dad/watch.php?id=526
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Real Madrid vs Barcelona (17:45)
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Maccabi Tel Aviv vs Dubai (19:45)
+https://dlhd.dad/watch.php?id=16
+
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Maccabi Tel Aviv vs Dubai (19:45)
+https://dlhd.dad/watch.php?id=635
+
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Maccabi Tel Aviv vs Dubai (19:45)
+https://dlhd.dad/watch.php?id=474
+
+#EXTINF:-1 group-title="Live Events",Basketball | Euroleague : Maccabi Tel Aviv vs Dubai (19:45)
+https://dlhd.dad/watch.php?id=144
+
+#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : Lander vs Daemen (00:30)
+https://dlhd.dad/watch.php?id=178
+
+#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : Nevada vs Auburn (01:00)
+https://dlhd.dad/watch.php?id=45
+
+#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : Purdue vs Texas (23:00)
+https://dlhd.dad/watch.php?id=52
+
+#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : Purdue vs Texas (23:00)
+https://dlhd.dad/watch.php?id=767
+
+#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : Purdue vs Texas (23:00)
+https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : Purdue vs Texas (23:00)
+https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : Iowa vs Nebraska (23:30)
+https://dlhd.dad/watch.php?id=341
+
+#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : Iowa vs Nebraska (23:30)
+https://dlhd.dad/watch.php?id=336
+
+#EXTINF:-1 group-title="Live Events",NCAA Basketball | NCAA : Iowa vs Nebraska (23:30)
+https://dlhd.dad/watch.php?id=103
+
+#EXTINF:-1 group-title="Live Events",NCAAW Basketball | NCAAW : TBD vs TBD (04:00)
+https://dlhd.dad/watch.php?id=156
+
+#EXTINF:-1 group-title="Live Events",NCAAW Basketball | NCAAW : San Diego State vs Kansas (04:00)
+https://dlhd.dad/watch.php?id=157
+
+#EXTINF:-1 group-title="Live Events",NCAAW Basketball | NCAAW : Columbia vs California (04:00)
+https://dlhd.dad/watch.php?id=158
+
+#EXTINF:-1 group-title="Live Events",NCAAW Basketball | NCAAW : Harvard vs Wisconsin (04:00)
+https://dlhd.dad/watch.php?id=159
+
+#EXTINF:-1 group-title="Live Events",NCAAW Basketball | NCAAW : San Diego State vs Kansas (23:30)
+https://dlhd.dad/watch.php?id=106
+
+#EXTINF:-1 group-title="Live Events",NCAAW Basketball | NCAAW : Harvard vs Wisconsin (23:30)
+https://dlhd.dad/watch.php?id=107
+
+#EXTINF:-1 group-title="Live Events",NCAAW Basketball | NCAAW : Cleveland State vs Middle Tennessee (23:30)
+https://dlhd.dad/watch.php?id=108
+
+#EXTINF:-1 group-title="Live Events",NBA G League | NBA G-League : Austin Toros Spurs vs Rip City Remix (00:00)
+https://dlhd.dad/watch.php?id=163
+
+#EXTINF:-1 group-title="Live Events",NBA G League | NBA G-League : Valley Suns vs Mexico City Capitanes (02:00)
+https://dlhd.dad/watch.php?id=164
+
+#EXTINF:-1 group-title="Live Events",NBA G League | NBA G-League : Fort Wayne Mad Ants vs Cleveland Charge (23:00)
+https://dlhd.dad/watch.php?id=86
+
+#EXTINF:-1 group-title="Live Events",NBA G League | NBA G-League : Iowa Wolves vs Oklahoma City Blue (23:30)
+https://dlhd.dad/watch.php?id=105
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Memphis Grizzlies vs San Antonio Spurs (00:00)
+https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Memphis Grizzlies vs San Antonio Spurs (00:00)
+https://dlhd.dad/watch.php?id=4070
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Memphis Grizzlies vs San Antonio Spurs (00:00)
+https://dlhd.dad/watch.php?id=5010
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Washington Wizards (01:00)
+https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Washington Wizards (01:00)
+https://dlhd.dad/watch.php?id=778
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Washington Wizards (01:00)
+https://dlhd.dad/watch.php?id=4071
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Utah Jazz vs Washington Wizards (01:00)
+https://dlhd.dad/watch.php?id=5011
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
+https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
+https://dlhd.dad/watch.php?id=44
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
+https://dlhd.dad/watch.php?id=921
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
+https://dlhd.dad/watch.php?id=898
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
+https://dlhd.dad/watch.php?id=386
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
 https://dlhd.dad/watch.php?id=375
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Real Madrid vs Barcelona (17:45)
-https://dlhd.dad/watch.php?id=932
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
+https://dlhd.dad/watch.php?id=116
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Real Madrid vs Barcelona (17:45)
-https://dlhd.dad/watch.php?id=85
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
+https://dlhd.dad/watch.php?id=926
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Real Madrid vs Barcelona (17:45)
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
+https://dlhd.dad/watch.php?id=626
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
 https://dlhd.dad/watch.php?id=798
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Real Madrid vs Barcelona (17:45)
-https://dlhd.dad/watch.php?id=91
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Real Madrid vs Barcelona (17:45)
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
 https://dlhd.dad/watch.php?id=61
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Argentina - Reserve League : Newell's Old Boys Res. vs Belgrano Res. (18:00)
-https://dlhd.dad/watch.php?id=388
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
+https://dlhd.dad/watch.php?id=98
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Friendly : BVB Legends vs Benfica Legends (18:00)
-https://dlhd.dad/watch.php?id=558
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
+https://dlhd.dad/watch.php?id=4072
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Friendly : BVB Legends vs Benfica Legends (18:00)
-https://dlhd.dad/watch.php?id=124
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Minnesota Timberwolves vs Houston Rockets (01:30)
+https://dlhd.dad/watch.php?id=5012
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Friendly : BVB Legends vs Benfica Legends (18:00)
-https://dlhd.dad/watch.php?id=714
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Denver Nuggets vs Dallas Mavericks (02:00)
+https://dlhd.dad/watch.php?id=10
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Manchester United vs Bayern (20:00)
-https://dlhd.dad/watch.php?id=308
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Denver Nuggets vs Dallas Mavericks (02:00)
+https://dlhd.dad/watch.php?id=923
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Manchester United vs Bayern (20:00)
-https://dlhd.dad/watch.php?id=377
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Denver Nuggets vs Dallas Mavericks (02:00)
+https://dlhd.dad/watch.php?id=134
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Manchester United vs Bayern (20:00)
-https://dlhd.dad/watch.php?id=375
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Denver Nuggets vs Dallas Mavericks (02:00)
+https://dlhd.dad/watch.php?id=4073
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Manchester United vs Bayern (20:00)
-https://dlhd.dad/watch.php?id=932
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Denver Nuggets vs Dallas Mavericks (02:00)
+https://dlhd.dad/watch.php?id=5013
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Manchester United vs Bayern (20:00)
-https://dlhd.dad/watch.php?id=712
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Golden State Warriors vs Brooklyn Nets (02:00)
+https://dlhd.dad/watch.php?id=11
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Manchester United vs Bayern (20:00)
-https://dlhd.dad/watch.php?id=81
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Golden State Warriors vs Brooklyn Nets (02:00)
+https://dlhd.dad/watch.php?id=753
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Manchester United vs Bayern (20:00)
-https://dlhd.dad/watch.php?id=798
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Golden State Warriors vs Brooklyn Nets (02:00)
+https://dlhd.dad/watch.php?id=763
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Europe - UEFA Women's Champions League : Manchester United vs Bayern (20:00)
-https://dlhd.dad/watch.php?id=92
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Golden State Warriors vs Brooklyn Nets (02:00)
+https://dlhd.dad/watch.php?id=145
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Chile - Copa De La Liga : Ñublense vs Universidad Católica (21:00)
-https://dlhd.dad/watch.php?id=642
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Golden State Warriors vs Brooklyn Nets (02:00)
+https://dlhd.dad/watch.php?id=4074
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Argentina - Primera División : Deportivo Riestra vs San Lorenzo (22:00)
-https://dlhd.dad/watch.php?id=387
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Golden State Warriors vs Brooklyn Nets (02:00)
+https://dlhd.dad/watch.php?id=5014
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Copa Argentina : Atlético Tucumán vs Sportivo Barracas (22:00)
-https://dlhd.dad/watch.php?id=746
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Portland Trail Blazers vs Milwaukee Bucks (02:00)
+https://dlhd.dad/watch.php?id=12
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | United States - USL Championship : Lexington vs Brooklyn (23:00)
-https://dlhd.dad/watch.php?id=66
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Portland Trail Blazers vs Milwaukee Bucks (02:00)
+https://dlhd.dad/watch.php?id=907
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | United States - USL Championship : Sporting JAX vs Miami FC (23:30)
-https://dlhd.dad/watch.php?id=910
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Portland Trail Blazers vs Milwaukee Bucks (02:00)
+https://dlhd.dad/watch.php?id=144
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Chile - Copa De La Liga : Audax Italiano vs La Serena (23:30)
-https://dlhd.dad/watch.php?id=642
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Portland Trail Blazers vs Milwaukee Bucks (02:00)
+https://dlhd.dad/watch.php?id=4075
 
-#EXTINF:-1 group-title="Live Events",NWSL Soccer | United States - NWSL : Washington Spirit vs Utah Royals (23:00)
-https://dlhd.dad/watch.php?id=18
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Portland Trail Blazers vs Milwaukee Bucks (02:00)
+https://dlhd.dad/watch.php?id=5015
 
-#EXTINF:-1 group-title="Live Events",NWSL Soccer | United States - NWSL : NJ/NY Gotham FC vs Denver Summit (23:00)
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Los Angeles Clippers vs Toronto Raptors (02:30)
+https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Los Angeles Clippers vs Toronto Raptors (02:30)
+https://dlhd.dad/watch.php?id=111
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Los Angeles Clippers vs Toronto Raptors (02:30)
+https://dlhd.dad/watch.php?id=114
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Los Angeles Clippers vs Toronto Raptors (02:30)
+https://dlhd.dad/watch.php?id=839
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Los Angeles Clippers vs Toronto Raptors (02:30)
+https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Los Angeles Clippers vs Toronto Raptors (02:30)
+https://dlhd.dad/watch.php?id=902
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Los Angeles Clippers vs Toronto Raptors (02:30)
+https://dlhd.dad/watch.php?id=4076
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Los Angeles Clippers vs Toronto Raptors (02:30)
+https://dlhd.dad/watch.php?id=5016
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Charlotte Hornets vs New York Knicks (23:00)
+https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Charlotte Hornets vs New York Knicks (23:00)
+https://dlhd.dad/watch.php?id=765
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Charlotte Hornets vs New York Knicks (23:00)
+https://dlhd.dad/watch.php?id=404
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Charlotte Hornets vs New York Knicks (23:00)
+https://dlhd.dad/watch.php?id=116
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Charlotte Hornets vs New York Knicks (23:00)
+https://dlhd.dad/watch.php?id=625
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Detroit Pistons vs New Orleans Pelicans (23:00)
+https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Orlando Magic vs Sacramento Kings (23:00)
+https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Orlando Magic vs Sacramento Kings (23:00)
+https://dlhd.dad/watch.php?id=37
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Orlando Magic vs Sacramento Kings (23:00)
+https://dlhd.dad/watch.php?id=755
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Orlando Magic vs Sacramento Kings (23:00)
+https://dlhd.dad/watch.php?id=892
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Orlando Magic vs Sacramento Kings (23:00)
+https://dlhd.dad/watch.php?id=49
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Orlando Magic vs Sacramento Kings (23:00)
+https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Orlando Magic vs Sacramento Kings (23:00)
+https://dlhd.dad/watch.php?id=98
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tour of Bruges Women | Bruges (143.8km) (14:15)
 https://dlhd.dad/watch.php?id=32
 
-#EXTINF:-1 group-title="Live Events",Women's Junior Basketball | NJCAA Women's Junior : Central Georgia Tech vs State Fair Community College (15:00)
-https://dlhd.dad/watch.php?id=160
+#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (14:15)
+https://dlhd.dad/watch.php?id=31
+
+#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (14:15)
+https://dlhd.dad/watch.php?id=589
+
+#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (14:15)
+https://dlhd.dad/watch.php?id=416
+
+#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (14:15)
+https://dlhd.dad/watch.php?id=412
+
+#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (14:15)
+https://dlhd.dad/watch.php?id=58
+
+#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (14:15)
+https://dlhd.dad/watch.php?id=525
+
+#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (14:15)
+https://dlhd.dad/watch.php?id=773
+
+#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (14:15)
+https://dlhd.dad/watch.php?id=232
+
+#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (14:15)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (14:15)
+https://dlhd.dad/watch.php?id=42
+
+#EXTINF:-1 group-title="Live Events",Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (14:15)
+https://dlhd.dad/watch.php?id=232
+
+#EXTINF:-1 group-title="Live Events",Futsal | Champions League Final Stari Grad (09:00)
+https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 group-title="Live Events",Futsal | Liga SportZone : Famalicao vs Benfica (19:00)
+https://dlhd.dad/watch.php?id=540
+
+#EXTINF:-1 group-title="Live Events",Handball | Handball-Bundesliga : Hamburg vs Bergischer (17:45)
+https://dlhd.dad/watch.php?id=69
+
+#EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from around the UK (13:45)
+https://dlhd.dad/watch.php?id=554
+
+#EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from Warwick, Chelmsford and Clonmel (14:00)
+https://dlhd.dad/watch.php?id=555
+
+#EXTINF:-1 group-title="Live Events",Horse Racing | America's Day At the Races (21:30)
+https://dlhd.dad/watch.php?id=758
 
 #EXTINF:-1 group-title="Live Events",Women's College Ice Hockey | Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask (18:30)
 https://dlhd.dad/watch.php?id=00
 
-#EXTINF:-1 group-title="Live Events",College Ice Hockey | Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask (18:30)
-https://dlhd.dad/watch.php?id=00
+#EXTINF:-1 group-title="Live Events",College Ice Hockey | College Ice Hockey : UConn vs Michigan State (17:30)
+https://dlhd.dad/watch.php?id=45
 
-#EXTINF:-1 group-title="Live Events",USHL Ice Hockey | USHL : Sioux City vs Fargo Force (23:05)
-https://dlhd.dad/watch.php?id=169
+#EXTINF:-1 group-title="Live Events",College Ice Hockey | College Ice Hockey : Quinnipiac vs Providence (21:00)
+https://dlhd.dad/watch.php?id=152
 
-#EXTINF:-1 group-title="Live Events",OHL Ice Hockey | Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask (18:30)
-https://dlhd.dad/watch.php?id=00
+#EXTINF:-1 group-title="Live Events",College Ice Hockey | College Ice Hockey : Wisconsin vs Dartmouth (21:00)
+https://dlhd.dad/watch.php?id=45
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Short Program | Female (13:30)
-https://dlhd.dad/watch.php?id=57
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Chicago Blackhawks vs Philadelphia Flyers (23:00)
+https://dlhd.dad/watch.php?id=8
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Short Program | Female (13:30)
-https://dlhd.dad/watch.php?id=524
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Chicago Blackhawks vs Philadelphia Flyers (23:00)
+https://dlhd.dad/watch.php?id=777
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Short Program | Female (13:30)
-https://dlhd.dad/watch.php?id=772
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Chicago Blackhawks vs Philadelphia Flyers (23:00)
+https://dlhd.dad/watch.php?id=776
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Short Program | Female (13:30)
-https://dlhd.dad/watch.php?id=231
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Columbus Blue Jackets vs Montreal Canadiens (23:00)
+https://dlhd.dad/watch.php?id=9
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Short Program | Female (13:30)
-https://dlhd.dad/watch.php?id=878
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Columbus Blue Jackets vs Montreal Canadiens (23:00)
+https://dlhd.dad/watch.php?id=112
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Short Program | Female (13:30)
-https://dlhd.dad/watch.php?id=41
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Columbus Blue Jackets vs Montreal Canadiens (23:00)
+https://dlhd.dad/watch.php?id=839
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Figure Skating Championships (16:55)
-https://dlhd.dad/watch.php?id=105
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Columbus Blue Jackets vs Montreal Canadiens (23:00)
+https://dlhd.dad/watch.php?id=899
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed Pairs | Short Program (17:40)
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Dallas Stars vs New York Islanders (23:00)
+https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Minnesota Wild vs Florida Panthers (23:00)
+https://dlhd.dad/watch.php?id=12
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Minnesota Wild vs Florida Panthers (23:00)
+https://dlhd.dad/watch.php?id=44
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Minnesota Wild vs Florida Panthers (23:00)
+https://dlhd.dad/watch.php?id=550
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Minnesota Wild vs Florida Panthers (23:00)
+https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Minnesota Wild vs Florida Panthers (23:00)
+https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Minnesota Wild vs Florida Panthers (23:00)
+https://dlhd.dad/watch.php?id=139
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Minnesota Wild vs Florida Panthers (23:00)
+https://dlhd.dad/watch.php?id=494
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Minnesota Wild vs Florida Panthers (23:00)
+https://dlhd.dad/watch.php?id=22
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Minnesota Wild vs Florida Panthers (23:00)
+https://dlhd.dad/watch.php?id=147
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Pittsburgh Penguins vs Ottawa Senators (23:00)
+https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Pittsburgh Penguins vs Ottawa Senators (23:00)
+https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Pittsburgh Penguins vs Ottawa Senators (23:00)
+https://dlhd.dad/watch.php?id=922
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Pittsburgh Penguins vs Ottawa Senators (23:00)
+https://dlhd.dad/watch.php?id=840
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Seattle Kraken vs Tampa Bay Lightning (23:00)
+https://dlhd.dad/watch.php?id=14
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Seattle Kraken vs Tampa Bay Lightning (23:00)
+https://dlhd.dad/watch.php?id=406
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Seattle Kraken vs Tampa Bay Lightning (23:00)
+https://dlhd.dad/watch.php?id=408
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia KHL : Avangard Omsk vs Neftekhimik Nizhnekamsk (13:30)
+https://dlhd.dad/watch.php?id=22
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia KHL : Metallurg Magnitogorsk vs Sibir Novosibirsk (14:00)
+https://dlhd.dad/watch.php?id=21
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia KHL : Lokomotiv Yaroslavl vs Spartak Moscow (16:30)
+https://dlhd.dad/watch.php?id=21
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia KHL : Dinamo Minsk vs Dynamo Moscow (16:30)
+https://dlhd.dad/watch.php?id=127
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia KHL : Dinamo Minsk vs Dynamo Moscow (16:30)
+https://dlhd.dad/watch.php?id=16
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Slovakia Tipsport Liga : Kosice vs Ban. Bystrica (16:30)
+https://dlhd.dad/watch.php?id=24
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Slovakia Tipsport Liga : Zilina vs Poprad (16:30)
+https://dlhd.dad/watch.php?id=25
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : Vaxjo vs Brynas (18:00)
+https://dlhd.dad/watch.php?id=704
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : Rogle vs Farjestad BK (18:00)
+https://dlhd.dad/watch.php?id=700
+
+#EXTINF:-1 group-title="Live Events",AHL Ice Hockey | AHL : Chicago Wolves vs Iowa Wild (00:00)
+https://dlhd.dad/watch.php?id=183
+
+#EXTINF:-1 group-title="Live Events",AHL Ice Hockey | AHL : Calgary Wranglers vs Coachella Valley Firebirds. (01:30)
+https://dlhd.dad/watch.php?id=184
+
+#EXTINF:-1 group-title="Live Events",AHL Ice Hockey | AHL : Ontario Reign vs Henderson Silver Knights (02:00)
+https://dlhd.dad/watch.php?id=185
+
+#EXTINF:-1 group-title="Live Events",AHL Ice Hockey | AHL : Texas Stars vs San Jose Barracuda (02:00)
+https://dlhd.dad/watch.php?id=186
+
+#EXTINF:-1 group-title="Live Events",AHL Ice Hockey | AHL : Grand Rapids Griffins vs Cleveland Monsters (23:00)
+https://dlhd.dad/watch.php?id=153
+
+#EXTINF:-1 group-title="Live Events",ECHL Ice Hockey | ECHL : Trois-Rivieres Lions vs Tulsa Oilers (00:05)
+https://dlhd.dad/watch.php?id=167
+
+#EXTINF:-1 group-title="Live Events",ECHL Ice Hockey | ECHL : South Carolina Stingrays vs Idaho Steelheads (01:10)
+https://dlhd.dad/watch.php?id=168
+
+#EXTINF:-1 group-title="Live Events",ECHL Ice Hockey | ECHL : Orlando Solar Bears vs Atlanta Gladiators (23:10)
+https://dlhd.dad/watch.php?id=154
+
+#EXTINF:-1 group-title="Live Events",USHL Ice Hockey | USHL : Des Moines Buccaneers vs Cedar Rapids (00:05)
+https://dlhd.dad/watch.php?id=174
+
+#EXTINF:-1 group-title="Live Events",OHL Ice Hockey | OHL : Cape Breton Eagles vs Newfoundland (21:30)
+https://dlhd.dad/watch.php?id=155
+
+#EXTINF:-1 group-title="Live Events",OHL Ice Hockey | OHL : Niagara IceDogs vs Barrie Colts (23:00)
+https://dlhd.dad/watch.php?id=156
+
+#EXTINF:-1 group-title="Live Events",OHL Ice Hockey | OHL : Owen Sound Attack vs Flint Firebirds (23:00)
+https://dlhd.dad/watch.php?id=157
+
+#EXTINF:-1 group-title="Live Events",OHL Ice Hockey | OHL : North Bay Battalion vs Peterborough Petes (23:05)
+https://dlhd.dad/watch.php?id=158
+
+#EXTINF:-1 group-title="Live Events",Ice Skating | Figure Skating World Championships Viaplay Winter, Day 2 | Short program (H) (10:25)
 https://dlhd.dad/watch.php?id=47
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed Pairs | Short Program (17:40)
+#EXTINF:-1 group-title="Live Events",Ice Skating | Figure Skating World Championships Viaplay Winter, Day 2 | Short program (H) (10:25)
 https://dlhd.dad/watch.php?id=57
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed Pairs | Short Program (17:40)
+#EXTINF:-1 group-title="Live Events",Ice Skating | Figure Skating World Championships Viaplay Winter, Day 2 | Short program (H) (10:25)
 https://dlhd.dad/watch.php?id=524
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed Pairs | Short Program (17:40)
+#EXTINF:-1 group-title="Live Events",Ice Skating | Figure Skating World Championships Viaplay Winter, Day 2 | Short program (H) (10:25)
 https://dlhd.dad/watch.php?id=772
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed Pairs | Short Program (17:40)
+#EXTINF:-1 group-title="Live Events",Ice Skating | Figure Skating World Championships Viaplay Winter, Day 2 | Short program (H) (10:25)
 https://dlhd.dad/watch.php?id=231
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed Pairs | Short Program (17:40)
+#EXTINF:-1 group-title="Live Events",Ice Skating | Figure Skating World Championships Viaplay Winter, Day 2 | Short program (H) (10:25)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed Pairs | Short Program (17:40)
+#EXTINF:-1 group-title="Live Events",Ice Skating | Figure Skating World Championships Viaplay Winter, Day 2 | Short program (H) (10:25)
 https://dlhd.dad/watch.php?id=41
+
+#EXTINF:-1 group-title="Live Events",Ice Skating | Figure skating: World Championships World Championships. Men's Short Program (14:00)
+https://dlhd.dad/watch.php?id=47
+
+#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed | Couples | Free Routine (17:10)
+https://dlhd.dad/watch.php?id=57
+
+#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed | Couples | Free Routine (17:10)
+https://dlhd.dad/watch.php?id=524
+
+#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed | Couples | Free Routine (17:10)
+https://dlhd.dad/watch.php?id=772
+
+#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed | Couples | Free Routine (17:10)
+https://dlhd.dad/watch.php?id=231
+
+#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed | Couples | Free Routine (17:10)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 group-title="Live Events",Ice Skating | World Championship | Prague Mixed | Couples | Free Routine (17:10)
+https://dlhd.dad/watch.php?id=41
+
+#EXTINF:-1 group-title="Live Events",Ice Skating | 2026 World Figure Skating Championships Pairs Free Skate (19:00)
+https://dlhd.dad/watch.php?id=343
+
+#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Jacksonville vs University of Delaware (16:00)
+https://dlhd.dad/watch.php?id=105
+
+#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Austin Peay vs Queens University (16:00)
+https://dlhd.dad/watch.php?id=106
+
+#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Stetson vs Liberty (20:00)
+https://dlhd.dad/watch.php?id=107
+
+#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Denver vs Michigan (21:00)
+https://dlhd.dad/watch.php?id=110
+
+#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Stanford vs Boston College (21:00)
+https://dlhd.dad/watch.php?id=664
+
+#EXTINF:-1 group-title="Live Events",Women's College Lacrosse | Women's College Lacrosse : Oregon vs Ohio State (22:00)
+https://dlhd.dad/watch.php?id=397
 
 #EXTINF:-1 group-title="Live Events",PLL Lacrosse | Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask (18:30)
 https://dlhd.dad/watch.php?id=00
@@ -1314,8 +852,869 @@ https://dlhd.dad/watch.php?id=00
 #EXTINF:-1 group-title="Live Events",Lacrosse (NLL) | Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask (18:30)
 https://dlhd.dad/watch.php?id=00
 
-#EXTINF:-1 group-title="Live Events",Major League Volleyball | Major League Volleyball : Indy Ignite vs Grand Rapids Rise (23:00)
-https://dlhd.dad/watch.php?id=308
+#EXTINF:-1 group-title="Live Events",Volleyball | League One Volleyball : LOVB Nebraska at LOVB Atlanta (00:00)
+https://dlhd.dad/watch.php?id=343
+
+#EXTINF:-1 group-title="Live Events",Volleyball | Brazil Superliga, Women : Flor de Ypê Paulistano Barueri vs Sancor Seguros Vôlei Maringá (00:00)
+https://dlhd.dad/watch.php?id=79
+
+#EXTINF:-1 group-title="Live Events",College Volleyball | Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask (18:30)
+https://dlhd.dad/watch.php?id=00
+
+#EXTINF:-1 group-title="Live Events",Water Sports | Women's College Swimming &amp; Diving NCAA Championship (01:00)
+https://dlhd.dad/watch.php?id=316
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Vietnam vs Bangladesh (12:00)
+https://dlhd.dad/watch.php?id=270
+
+#EXTINF:-1 group-title="Live Events",Soccer | Portugal - Liga Revelação : Famalicão U23 vs Sporting CP U23 (14:00)
+https://dlhd.dad/watch.php?id=540
+
+#EXTINF:-1 group-title="Live Events",Soccer | Portugal - Liga Revelação : Famalicão U23 vs Sporting CP U23 (14:00)
+https://dlhd.dad/watch.php?id=716
+
+#EXTINF:-1 group-title="Live Events",Soccer | World - Club Friendly : Malmö FF vs Landskrona (14:00)
+https://dlhd.dad/watch.php?id=747
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Moldova vs Lithuania (15:00)
+https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Moldova vs Lithuania (15:00)
+https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Moldova vs Lithuania (15:00)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Moldova vs Lithuania (15:00)
+https://dlhd.dad/watch.php?id=593
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Moldova vs Lithuania (15:00)
+https://dlhd.dad/watch.php?id=50
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Moldova vs Lithuania (15:00)
+https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Moldova vs Lithuania (15:00)
+https://dlhd.dad/watch.php?id=402
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Moldova vs Lithuania (15:00)
+https://dlhd.dad/watch.php?id=584
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Moldova vs Lithuania (15:00)
+https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Moldova vs Lithuania (15:00)
+https://dlhd.dad/watch.php?id=102
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Moldova vs Lithuania (15:00)
+https://dlhd.dad/watch.php?id=94
+
+#EXTINF:-1 group-title="Live Events",Soccer | Czechia Czech First League : Plzen vs Sparta Prague (16:30)
+https://dlhd.dad/watch.php?id=1028
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Gibraltar vs Latvia (17:00)
+https://dlhd.dad/watch.php?id=756
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Gibraltar vs Latvia (17:00)
+https://dlhd.dad/watch.php?id=991
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Gibraltar vs Latvia (17:00)
+https://dlhd.dad/watch.php?id=632
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Gibraltar vs Latvia (17:00)
+https://dlhd.dad/watch.php?id=468
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Gibraltar vs Latvia (17:00)
+https://dlhd.dad/watch.php?id=92
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Gibraltar vs Latvia (17:00)
+https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Malta vs Luxembourg (17:00)
+https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Malta vs Luxembourg (17:00)
+https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Malta vs Luxembourg (17:00)
+https://dlhd.dad/watch.php?id=427
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Malta vs Luxembourg (17:00)
+https://dlhd.dad/watch.php?id=129
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Malta vs Luxembourg (17:00)
+https://dlhd.dad/watch.php?id=631
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Malta vs Luxembourg (17:00)
+https://dlhd.dad/watch.php?id=465
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Malta vs Luxembourg (17:00)
+https://dlhd.dad/watch.php?id=93
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Nations League : Malta vs Luxembourg (17:00)
+https://dlhd.dad/watch.php?id=142
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=1005
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=18
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=589
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=426
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=49
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=47
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=393
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=398
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=808
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=467
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=150
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=414
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=91
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Turkey vs Romania (17:00)
+https://dlhd.dad/watch.php?id=140
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Cyprus vs Belarus (17:00)
+https://dlhd.dad/watch.php?id=590
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Cyprus vs Belarus (17:00)
+https://dlhd.dad/watch.php?id=637
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Cyprus vs Belarus (17:00)
+https://dlhd.dad/watch.php?id=104
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Georgia vs Israel (17:00)
+https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Georgia vs Israel (17:00)
+https://dlhd.dad/watch.php?id=992
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Georgia vs Israel (17:00)
+https://dlhd.dad/watch.php?id=584
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Georgia vs Israel (17:00)
+https://dlhd.dad/watch.php?id=466
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Georgia vs Israel (17:00)
+https://dlhd.dad/watch.php?id=90
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Georgia vs Israel (17:00)
+https://dlhd.dad/watch.php?id=103
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Georgia vs Israel (17:00)
+https://dlhd.dad/watch.php?id=144
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - Euro U-21 Qualifying : Republic of Ireland U21 vs Moldova U21 (17:15)
+https://dlhd.dad/watch.php?id=365
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - Euro U-21 Qualifying : Italy U21 vs North Macedonia U21 (17:15)
+https://dlhd.dad/watch.php?id=851
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Hungary U21 vs Israel U21 (18:30)
+https://dlhd.dad/watch.php?id=265
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Simulcast (19:45)
+https://dlhd.dad/watch.php?id=427
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Simulcast (19:45)
+https://dlhd.dad/watch.php?id=645
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Simulcast (19:45)
+https://dlhd.dad/watch.php?id=393
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Simulcast (19:45)
+https://dlhd.dad/watch.php?id=638
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Simulcast (19:45)
+https://dlhd.dad/watch.php?id=140
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Ukraine vs Sweden (19:45)
+https://dlhd.dad/watch.php?id=593
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Ukraine vs Sweden (19:45)
+https://dlhd.dad/watch.php?id=454
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Ukraine vs Sweden (19:45)
+https://dlhd.dad/watch.php?id=47
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Ukraine vs Sweden (19:45)
+https://dlhd.dad/watch.php?id=919
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Ukraine vs Sweden (19:45)
+https://dlhd.dad/watch.php?id=810
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Ukraine vs Sweden (19:45)
+https://dlhd.dad/watch.php?id=401
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Ukraine vs Sweden (19:45)
+https://dlhd.dad/watch.php?id=942
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Ukraine vs Sweden (19:45)
+https://dlhd.dad/watch.php?id=639
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Ukraine vs Sweden (19:45)
+https://dlhd.dad/watch.php?id=468
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Ukraine vs Sweden (19:45)
+https://dlhd.dad/watch.php?id=56
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Ukraine vs Sweden (19:45)
+https://dlhd.dad/watch.php?id=103
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Ukraine vs Sweden (19:45)
+https://dlhd.dad/watch.php?id=94
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Slovakia vs Kosovo (19:45)
+https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Slovakia vs Kosovo (19:45)
+https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Slovakia vs Kosovo (19:45)
+https://dlhd.dad/watch.php?id=596
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Slovakia vs Kosovo (19:45)
+https://dlhd.dad/watch.php?id=995
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Slovakia vs Kosovo (19:45)
+https://dlhd.dad/watch.php?id=584
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Slovakia vs Kosovo (19:45)
+https://dlhd.dad/watch.php?id=98
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Poland vs Albania (19:45)
+https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Poland vs Albania (19:45)
+https://dlhd.dad/watch.php?id=128
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Poland vs Albania (19:45)
+https://dlhd.dad/watch.php?id=560
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Poland vs Albania (19:45)
+https://dlhd.dad/watch.php?id=594
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Poland vs Albania (19:45)
+https://dlhd.dad/watch.php?id=396
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Poland vs Albania (19:45)
+https://dlhd.dad/watch.php?id=585
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Poland vs Albania (19:45)
+https://dlhd.dad/watch.php?id=943
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Poland vs Albania (19:45)
+https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Poland vs Albania (19:45)
+https://dlhd.dad/watch.php?id=416
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Poland vs Albania (19:45)
+https://dlhd.dad/watch.php?id=93
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=358
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=850
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=590
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=74
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=129
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=400
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=583
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=398
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=631
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=467
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=81
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=149
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=414
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=17
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=91
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Italy vs Northern Ireland (19:45)
+https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Denmark vs North Macedonia (19:45)
+https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Denmark vs North Macedonia (19:45)
+https://dlhd.dad/watch.php?id=817
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Denmark vs North Macedonia (19:45)
+https://dlhd.dad/watch.php?id=591
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Denmark vs North Macedonia (19:45)
+https://dlhd.dad/watch.php?id=291
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Denmark vs North Macedonia (19:45)
+https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Denmark vs North Macedonia (19:45)
+https://dlhd.dad/watch.php?id=991
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Denmark vs North Macedonia (19:45)
+https://dlhd.dad/watch.php?id=430
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Denmark vs North Macedonia (19:45)
+https://dlhd.dad/watch.php?id=85
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Denmark vs North Macedonia (19:45)
+https://dlhd.dad/watch.php?id=466
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Denmark vs North Macedonia (19:45)
+https://dlhd.dad/watch.php?id=420
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Denmark vs North Macedonia (19:45)
+https://dlhd.dad/watch.php?id=99
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Denmark vs North Macedonia (19:45)
+https://dlhd.dad/watch.php?id=142
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=357
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=670
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=39
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=592
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=290
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=992
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=586
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=429
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=599
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=150
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=415
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Wales vs Bosnia and Herzegovina (19:45)
+https://dlhd.dad/watch.php?id=92
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=1033
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=365
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=289
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=50
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=587
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=993
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=402
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=383
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=431
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=637
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=808
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=465
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=83
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=572
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=418
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Czech Republic vs Ireland Republic (19:45)
+https://dlhd.dad/watch.php?id=95
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Brazil vs France (20:00)
+https://dlhd.dad/watch.php?id=469
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Brazil vs France (20:00)
+https://dlhd.dad/watch.php?id=78
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Brazil vs France (20:00)
+https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Brazil vs France (20:00)
+https://dlhd.dad/watch.php?id=426
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Brazil vs France (20:00)
+https://dlhd.dad/watch.php?id=49
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Brazil vs France (20:00)
+https://dlhd.dad/watch.php?id=889
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Brazil vs France (20:00)
+https://dlhd.dad/watch.php?id=600
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Brazil vs France (20:00)
+https://dlhd.dad/watch.php?id=925
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Brazil vs France (20:00)
+https://dlhd.dad/watch.php?id=135
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Brazil vs France (20:00)
+https://dlhd.dad/watch.php?id=143
+
+#EXTINF:-1 group-title="Live Events",Soccer | Chile - Copa De La Liga : Deportes Limache vs Palestino (21:00)
+https://dlhd.dad/watch.php?id=642
+
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Reserve League : Boca Juniors Res. vs Estudiantes Res. (21:30)
+https://dlhd.dad/watch.php?id=388
+
+#EXTINF:-1 group-title="Live Events",Soccer | United States - Baller League : Showtime FC vs Any Means United (21:45)
+https://dlhd.dad/watch.php?id=910
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Bolivia vs Suriname (22:00)
+https://dlhd.dad/watch.php?id=39
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Bolivia vs Suriname (22:00)
+https://dlhd.dad/watch.php?id=117
+
+#EXTINF:-1 group-title="Live Events",Soccer | World Cup Qualifying : Bolivia vs Suriname (22:00)
+https://dlhd.dad/watch.php?id=92
+
+#EXTINF:-1 group-title="Live Events",Soccer | United States - Baller League : Speed United vs Club 360 (22:40)
+https://dlhd.dad/watch.php?id=910
+
+#EXTINF:-1 group-title="Live Events",Soccer | United States - USL Super League : DC Power vs Tampa Bay Sun (23:00)
+https://dlhd.dad/watch.php?id=68
+
+#EXTINF:-1 group-title="Live Events",Soccer | United States - Baller League : M3 FC vs For The Win FC (23:30)
+https://dlhd.dad/watch.php?id=910
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Colombia vs Croatia (23:30)
+https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Colombia vs Croatia (23:30)
+https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Colombia vs Croatia (23:30)
+https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Colombia vs Croatia (23:30)
+https://dlhd.dad/watch.php?id=589
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Colombia vs Croatia (23:30)
+https://dlhd.dad/watch.php?id=402
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Colombia vs Croatia (23:30)
+https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Colombia vs Croatia (23:30)
+https://dlhd.dad/watch.php?id=467
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Colombia vs Croatia (23:30)
+https://dlhd.dad/watch.php?id=414
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Colombia vs Croatia (23:30)
+https://dlhd.dad/watch.php?id=91
+
+#EXTINF:-1 group-title="Live Events",Soccer | Friendly : Colombia vs Croatia (23:30)
+https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 group-title="Live Events",Soccer | Chile - Copa De La Liga : Everton vs O'Higgins (23:30)
+https://dlhd.dad/watch.php?id=642
+
+#EXTINF:-1 group-title="Live Events",Soccer | Chile - Copa De La Liga : Univ. Concepción vs Cobresal (23:30)
+https://dlhd.dad/watch.php?id=642
+
+#EXTINF:-1 group-title="Live Events",MMA | Babilon MMA - 57 Szymon Kołecki vs Stuart Austin (16:00)
+https://dlhd.dad/watch.php?id=47
+
+#EXTINF:-1 group-title="Live Events",MMA | Hexagon MMA 42 (20:00)
+https://dlhd.dad/watch.php?id=55
+
+#EXTINF:-1 group-title="Live Events",MMA | Hexagon MMA 42 (20:00)
+https://dlhd.dad/watch.php?id=119
+
+#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Hero Indian Open (07:30)
+https://dlhd.dad/watch.php?id=70
+
+#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Hero Indian Open (07:30)
+https://dlhd.dad/watch.php?id=318
+
+#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Hero Indian Open (07:30)
+https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Hero Indian Open (07:30)
+https://dlhd.dad/watch.php?id=528
+
+#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Hero Indian Open (07:30)
+https://dlhd.dad/watch.php?id=422
+
+#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Hero Indian Open (07:30)
+https://dlhd.dad/watch.php?id=710
+
+#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Hero Indian Open (07:30)
+https://dlhd.dad/watch.php?id=785
+
+#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Hero Indian Open (07:30)
+https://dlhd.dad/watch.php?id=992
+
+#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Hero Indian Open (07:30)
+https://dlhd.dad/watch.php?id=901
+
+#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Hero Indian Open (07:30)
+https://dlhd.dad/watch.php?id=588
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (12:30)
+https://dlhd.dad/watch.php?id=70
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (12:30)
+https://dlhd.dad/watch.php?id=318
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (12:30)
+https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (12:30)
+https://dlhd.dad/watch.php?id=528
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (12:30)
+https://dlhd.dad/watch.php?id=422
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (12:30)
+https://dlhd.dad/watch.php?id=710
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (12:30)
+https://dlhd.dad/watch.php?id=785
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (12:30)
+https://dlhd.dad/watch.php?id=992
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (12:30)
+https://dlhd.dad/watch.php?id=901
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (12:30)
+https://dlhd.dad/watch.php?id=588
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Korn Ferry Tour Golf Club Car Championship, First Round (15:00)
+https://dlhd.dad/watch.php?id=318
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Korn Ferry Tour Golf Club Car Championship, First Round (15:00)
+https://dlhd.dad/watch.php?id=592
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Golf Texas Children's Houston Open, First Round (19:00)
+https://dlhd.dad/watch.php?id=318
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Golf Texas Children's Houston Open, First Round (19:00)
+https://dlhd.dad/watch.php?id=70
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (22:00)
+https://dlhd.dad/watch.php?id=318
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (22:00)
+https://dlhd.dad/watch.php?id=528
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (22:00)
+https://dlhd.dad/watch.php?id=422
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (22:00)
+https://dlhd.dad/watch.php?id=710
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (22:00)
+https://dlhd.dad/watch.php?id=785
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (22:00)
+https://dlhd.dad/watch.php?id=992
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (22:00)
+https://dlhd.dad/watch.php?id=901
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Texas Children's Houston Open (22:00)
+https://dlhd.dad/watch.php?id=588
+
+#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour Ford Championship (23:00)
+https://dlhd.dad/watch.php?id=70
+
+#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour Ford Championship (23:00)
+https://dlhd.dad/watch.php?id=318
+
+#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour Ford Championship (23:00)
+https://dlhd.dad/watch.php?id=528
+
+#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour Ford Championship (23:00)
+https://dlhd.dad/watch.php?id=422
+
+#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour Ford Championship (23:00)
+https://dlhd.dad/watch.php?id=710
+
+#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour Ford Championship (23:00)
+https://dlhd.dad/watch.php?id=785
+
+#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour Ford Championship (23:00)
+https://dlhd.dad/watch.php?id=992
+
+#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour Ford Championship (23:00)
+https://dlhd.dad/watch.php?id=901
+
+#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour Ford Championship (23:00)
+https://dlhd.dad/watch.php?id=588
+
+#EXTINF:-1 group-title="Live Events",Aussie Rules (AFL) | AFL : Geelong Cats vs Adelaide Crows (08:30)
+https://dlhd.dad/watch.php?id=31
+
+#EXTINF:-1 group-title="Live Events",Aussie Rules (AFL) | AFL : Geelong Cats vs Adelaide Crows (08:30)
+https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 group-title="Live Events",Aussie Rules (AFL) | AFL : Geelong Cats vs Adelaide Crows (08:30)
+https://dlhd.dad/watch.php?id=590
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Jonny Clayton vs Josh Rock (18:00)
+https://dlhd.dad/watch.php?id=37
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Jonny Clayton vs Josh Rock (18:00)
+https://dlhd.dad/watch.php?id=588
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Jonny Clayton vs Josh Rock (18:00)
+https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Jonny Clayton vs Josh Rock (18:00)
+https://dlhd.dad/watch.php?id=641
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Jonny Clayton vs Josh Rock (18:00)
+https://dlhd.dad/watch.php?id=75
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Jonny Clayton vs Josh Rock (18:00)
+https://dlhd.dad/watch.php?id=940
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Jonny Clayton vs Josh Rock (18:00)
+https://dlhd.dad/watch.php?id=811
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Jonny Clayton vs Josh Rock (18:00)
+https://dlhd.dad/watch.php?id=5002
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Humphries vs Michael van Gerwen (18:40)
+https://dlhd.dad/watch.php?id=37
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Humphries vs Michael van Gerwen (18:40)
+https://dlhd.dad/watch.php?id=588
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Humphries vs Michael van Gerwen (18:40)
+https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Humphries vs Michael van Gerwen (18:40)
+https://dlhd.dad/watch.php?id=641
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Humphries vs Michael van Gerwen (18:40)
+https://dlhd.dad/watch.php?id=75
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Humphries vs Michael van Gerwen (18:40)
+https://dlhd.dad/watch.php?id=940
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Humphries vs Michael van Gerwen (18:40)
+https://dlhd.dad/watch.php?id=811
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Humphries vs Michael van Gerwen (18:40)
+https://dlhd.dad/watch.php?id=5002
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Littler vs Stephen Bunting (19:10)
+https://dlhd.dad/watch.php?id=37
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Littler vs Stephen Bunting (19:10)
+https://dlhd.dad/watch.php?id=588
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Littler vs Stephen Bunting (19:10)
+https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Littler vs Stephen Bunting (19:10)
+https://dlhd.dad/watch.php?id=641
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Littler vs Stephen Bunting (19:10)
+https://dlhd.dad/watch.php?id=75
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Littler vs Stephen Bunting (19:10)
+https://dlhd.dad/watch.php?id=940
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Littler vs Stephen Bunting (19:10)
+https://dlhd.dad/watch.php?id=811
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Luke Littler vs Stephen Bunting (19:10)
+https://dlhd.dad/watch.php?id=5002
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Gerwyn Price vs Gian van Veen (19:40)
+https://dlhd.dad/watch.php?id=37
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Gerwyn Price vs Gian van Veen (19:40)
+https://dlhd.dad/watch.php?id=588
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Gerwyn Price vs Gian van Veen (19:40)
+https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Gerwyn Price vs Gian van Veen (19:40)
+https://dlhd.dad/watch.php?id=641
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Gerwyn Price vs Gian van Veen (19:40)
+https://dlhd.dad/watch.php?id=75
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Gerwyn Price vs Gian van Veen (19:40)
+https://dlhd.dad/watch.php?id=940
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Gerwyn Price vs Gian van Veen (19:40)
+https://dlhd.dad/watch.php?id=811
+
+#EXTINF:-1 group-title="Live Events",Darts | Premier League Darts : Gerwyn Price vs Gian van Veen (19:40)
+https://dlhd.dad/watch.php?id=5002
+
+#EXTINF:-1 group-title="Live Events",Floorball | WSE Champions League : Reus Deportiu vs FC Porto (19:55)
+https://dlhd.dad/watch.php?id=718
+
+#EXTINF:-1 group-title="Live Events",QMJHL Ice Hockey | Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask (18:30)
+https://dlhd.dad/watch.php?id=00
+
+#EXTINF:-1 group-title="Live Events",College Lacrosse | Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask (18:30)
+https://dlhd.dad/watch.php?id=00
+
+#EXTINF:-1 group-title="Live Events",Rugby League | NSW Cup : Blacktown Workers Sea Eagles vs Sydney Roosters II (06:30)
+https://dlhd.dad/watch.php?id=588
+
+#EXTINF:-1 group-title="Live Events",Rugby League | National Rugby League : Manly Sea Eagles vs Sydney Roosters (09:00)
+https://dlhd.dad/watch.php?id=756
+
+#EXTINF:-1 group-title="Live Events",Rugby League | National Rugby League : Manly Sea Eagles vs Sydney Roosters (09:00)
+https://dlhd.dad/watch.php?id=118
+
+#EXTINF:-1 group-title="Live Events",Rugby League | Super League Rugby : Castleford Tigers vs Bradford Bulls (20:00)
+https://dlhd.dad/watch.php?id=756
+
+#EXTINF:-1 group-title="Live Events",Rugby League | Super League Rugby : Castleford Tigers vs Bradford Bulls (20:00)
+https://dlhd.dad/watch.php?id=410
+
+#EXTINF:-1 group-title="Live Events",Rugby Union | Pro D2 : Provence Rugby vs Colomiers (20:00)
+https://dlhd.dad/watch.php?id=122
+
+#EXTINF:-1 group-title="Live Events",Ski Jumping | Planica | HS240 men Qualifying | Ski Flying | World Cup (09:00)
+https://dlhd.dad/watch.php?id=32
+
+#EXTINF:-1 group-title="Live Events",Ski Jumping | Planica | HS240 men Qualifying | Ski Flying | World Cup (09:00)
+https://dlhd.dad/watch.php?id=57
+
+#EXTINF:-1 group-title="Live Events",Ski Jumping | Planica | HS240 men Qualifying | Ski Flying | World Cup (09:00)
+https://dlhd.dad/watch.php?id=524
+
+#EXTINF:-1 group-title="Live Events",Ski Jumping | Planica | HS240 men Qualifying | Ski Flying | World Cup (09:00)
+https://dlhd.dad/watch.php?id=772
+
+#EXTINF:-1 group-title="Live Events",Ski Jumping | Planica | HS240 men Qualifying | Ski Flying | World Cup (09:00)
+https://dlhd.dad/watch.php?id=231
+
+#EXTINF:-1 group-title="Live Events",Ski Jumping | Planica | HS240 men Qualifying | Ski Flying | World Cup (09:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 group-title="Live Events",Ski Jumping | Planica | HS240 men Qualifying | Ski Flying | World Cup (09:00)
+https://dlhd.dad/watch.php?id=41
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://dlhd.dad/watch.php?id=51
