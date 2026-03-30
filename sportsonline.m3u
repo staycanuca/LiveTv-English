@@ -1,63 +1,43 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Inter B x Trento 12:30 [ITALIAN & spanish]
-https://w2.sportzsonline.click/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Benevento x Cosenza 12:30 [ITALIAN]
-https://w2.sportzsonline.click/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Pontedera x Bra 14:30 [ITALIAN]
-https://w2.sportzsonline.click/channels/hd/hd7.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Crotone x Audace Cerignola 14:30 [ITALIAN]
-https://w2.sportzsonline.click/channels/hd/hd8.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Lithuania x Georgia 15:00 [ENGLISH & SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Lithuania x Georgia 15:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Armenia x Belarus 15:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Coquimbo Unido x Deportes ConcepciÃ³n 17:00 [ENGLISH & SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Vis Pesaro x Perugia 17:30 [ITALIAN]
-https://w2.sportzsonline.click/channels/hd/hd8.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",ForlÃ¬ x Pianese 17:30 [ITALIAN]
-https://w2.sportzsonline.click/channels/hd/hd7.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Virtus Casarano x Giugliano 17:30 [ITALIAN & spanish]
-https://w2.sportzsonline.click/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Cittadella x Lecco 17:30 [ITALIAN]
-https://w2.sportzsonline.click/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Moto3: GP of the Americas - Grand Prix of the Americas - Race 18:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Moto3: GP of the Americas - Grand Prix of the Americas - Race 18:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Moto2: GP of the Americas - Grand Prix of the Americas - Race 20:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Moto2: GP of the Americas - Grand Prix of the Americas - Race 20:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Gubbio x Ravenna 20:30 [ITALIAN]
-https://w2.sportzsonline.click/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Picerno x Monopoli 20:30 [ITALIAN]
-https://w2.sportzsonline.click/channels/hd/hd8.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Colombia x France 21:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Colombia x France 21:00 [FRENCH]
-https://w2.sportzsonline.click/channels/hd/hd4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Colombia x France 21:00 [SPANISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",New Zealand x Chile 08:00 [SPANISH]
 https://w2.sportzsonline.click/channels/hd/hd6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Colombia x France 21:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",MotoGP: GP of the Americas - Grand Prix of the Americas - Race 21:15 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",MotoGP: GP of the Americas - Grand Prix of the Americas - Race 21:15 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",CÃºcuta Deportivo x BoyacÃ¡ ChicÃ³ 22:00 [ENGLISH & SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Athletico-PR x Botafogo 23:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Deportes Tolima x Jaguares de CÃ³rdoba 00:10 [ENGLISH & SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Atlas x Guadalajara 02:00 [ITALIAN & spanish]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Azerbaijan x Sierra Leone 17:00 [ENGLISH & GREEK & ARABIC]
 https://w2.sportzsonline.click/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: New York Knicks @ Oklahoma City Thunder 02:30 [ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Cyprus x Moldova 18:00 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Cyprus x Moldova 18:00 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br3.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Spain x Egypt 18:00 [SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Spain x Egypt 18:00 [ARABIC & BULGARIAN & DANISH]
+https://w2.sportzsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Spain x Egypt 18:00 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br4.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Germany x Ghana 20:45 [ENGLISH]
 https://w2.sportzsonline.click/channels/hd/hd2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Deportivo Cali x Deportivo Pereira 03:20 [ENGLISH & SPANISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Germany x Ghana 20:45 [DUTCH & GERMAN]
+https://w2.sportzsonline.click/channels/hd/hd3.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Germany x Ghana 20:45 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br1.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Arezzo x Ascoli 20:30 [ITALIAN]
+https://w2.sportzsonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Casertana x Sorrento 20:30 [GREEK & ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: LA Clippers @ Milwaukee Bucks 21:30 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd1.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Cobresal x Universidad CatÃ³lica 23:00 [GERMAN & POLISH & SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",AtlÃ©tico-MG W x SÃ£o Paulo W 00:00 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br1.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",MedellÃ­n x AmÃ©rica de Cali 01:10 [ARABIC & BULGARIAN & DANISH]
+https://w2.sportzsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Univ. ConcepciÃ³n x Ãublense 01:30 [GERMAN & POLISH & SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Detroit Pistons @ Oklahoma City Thunder 01:30 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Palmeiras W x Flamengo W 02:00 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br1.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Millonarios x Fortaleza CEIF 03:20 [ARABIC & BULGARIAN & DANISH]
 https://w2.sportzsonline.click/channels/hd/hd11.php
 #EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Golden State Warriors @ Denver Nuggets 04:00 [ENGLISH]
 https://w2.sportzsonline.click/channels/hd/hd2.php
