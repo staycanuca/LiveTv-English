@@ -1,89 +1,43 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Kazakhstan x Comoros 14:00 [ENGLISH & GREEK & ARABIC]
-https://w2.sportzsonline.click/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Costa Rica x Iran 15:00 [ARABIC & BULGARIAN & DANISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Norway x Switzerland 18:00 [ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bayern W x Manchester United W 18:45 [ENGLISH]
 https://w2.sportzsonline.click/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Norway x Switzerland 18:00 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bayern W x Manchester United W 18:45 [SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Chelsea FC W x Arsenal W 21:00 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Chelsea FC W x Arsenal W 21:00 [SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Chelsea FC W x Arsenal W 21:00 [BRAZILIAN]
 https://w2.sportzsonline.click/channels/bra/br6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Serbia x Saudi Arabia 18:00 [GERMAN & POLISH & SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Luxembourg x Malta 18:00 [ARABIC & BULGARIAN & DANISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Latvia x Gibraltar 18:00 [GREEK & ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd8.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Latvia x Gibraltar 18:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Montenegro x Slovenia 18:00 [DUTCH & GERMAN]
-https://w2.sportzsonline.click/channels/hd/hd3.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Hungary x Greece 19:00 [ENGLISH & GREEK & ARABIC]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Colo-Colo x Huachipato 23:00 [ENGLISH & SPANISH]
 https://w2.sportzsonline.click/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Hungary x Greece 19:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br3.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Morocco x Paraguay 20:00 [ARABIC & BELGIAN]
-https://w2.sportzsonline.click/channels/hd/hd4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Peru x Honduras 20:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Czech Republic x Denmark 20:45 [ARABIC & BULGARIAN & DANISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bosnia and Herzegovina x Italy 20:45 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bosnia and Herzegovina x Italy 20:45 [ITALIAN]
-https://w2.sportzsonline.click/channels/hd/hd7.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bosnia and Herzegovina x Italy 20:45 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Sweden x Poland 20:45 [GERMAN & POLISH & SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Sweden x Poland 20:45 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",AmÃ©rica Mineiro x Botafogo SP 23:00 [BRAZILIAN]
 https://w2.sportzsonline.click/channels/bra/br2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Kosovo x Turkey 20:45 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Kosovo x Turkey 20:45 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Alianza x Deportivo Pasto 23:10 [ROMANIAN & SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Internacional x SÃ£o Paulo 00:30 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br3.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Botafogo x Mirassol 00:30 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br4.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",LanÃºs x Platense 01:00 [SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bahia x Athletico-PR 01:00 [BRAZILIAN]
 https://w2.sportzsonline.click/channels/bra/br5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Ireland Republic x North Macedonia 20:45 [GREEK & ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd8.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",England x Japan 20:45 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",England x Japan 20:45 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Netherlands x Ecuador 20:45 [DUTCH & GERMAN]
-https://w2.sportzsonline.click/channels/hd/hd3.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Netherlands x Ecuador 20:45 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Cruzeiro x VitÃ³ria 01:00 [BRAZILIAN]
 https://w2.sportzsonline.click/channels/bra/br6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Spain x Egypt 21:00 [SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Spain x Egypt 21:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br3.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Algeria x Uruguay 21:30 [ENGLISH & GREEK & ARABIC]
-https://w2.sportzsonline.click/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Congo DR x Jamaica 23:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Congo DR x Jamaica 23:00 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Coritiba x Vasco da Gama 01:30 [BRAZILIAN]
 https://w2.sportzsonline.click/channels/bra/br1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Juventude x Novorizontino 23:30 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",USA x Portugal 01:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Argentina x Zambia 01:15 [ENGLISH & GREEK & ARABIC]
-https://w2.sportzsonline.click/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Argentina x Zambia 01:15 [GERMAN & POLISH & SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Argentina x Zambia 01:15 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br3.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Canada x Tunisia 01:30 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Brazil x Croatia 02:00 [GREEK & ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd8.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Brazil x Croatia 02:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Brazil x Croatia 02:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Mexico x Belgium 03:00 [ARABIC & BELGIAN]
-https://w2.sportzsonline.click/channels/hd/hd4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Mexico x Belgium 03:00 [SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Iraq x Bolivia 05:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Iraq x Bolivia 05:00 [ARABIC & BULGARIAN & DANISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Santa Fe x Llaneros 01:30 [ROMANIAN & SPANISH]
 https://w2.sportzsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Boston Celtics @ Miami Heat 01:30 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Colorado Springs x Spokane Velocity 02:00 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Ponte Preta x CearÃ¡ 02:00 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Fluminense x Corinthians 02:30 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br3.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",AtlÃ©tico Nacional x CÃºcuta Deportivo 03:30 [ROMANIAN & SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: San Antonio Spurs @ Golden State Warriors 04:00 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd2.php
