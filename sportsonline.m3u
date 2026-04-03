@@ -1,43 +1,61 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Macarthur x Newcastle Jets 10:35 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Brisbane Roar x Sydney FC 12:00 [GERMAN & DUTCH & SPANISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Adelaide United W x Wellington Phoenix W 07:50 [GREEK & SPANISH]
 https://w2.sportzsonline.click/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Cricket: IPL '26 - M6: Kolkata Knight Riders Vs Sunrisers Hyderabad 16:00 [ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Adelaide United x Auckland 10:35 [GREEK & SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd10.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Middlesbrough x Millwall 13:30 [ENGLISH]
 https://w2.sportzsonline.click/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Barcelona W x Real Madrid W 18:45 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Barcelona W x Real Madrid W 18:45 [SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Barcelona W x Real Madrid W 18:45 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Leicester City x Preston North End 16:00 [BRAZILIAN]
 https://w2.sportzsonline.click/channels/bra/br6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Barracas Central x Sarmiento 20:00 [GERMAN & SPANISH & ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bihor Oradea x Voluntari 16:30 [GREEK & ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",BotoÅani x FCSB 19:30 [GREEK & ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Gimnasia Mendoza x VÃ©lez Sarsfield 20:00 [DUTCH & SPANISH]
 https://w2.sportzsonline.click/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Darts: PL Darts Night 9: Manchester 20:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",OL Lyonnes W x Wolfsburg W 21:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",OL Lyonnes W x Wolfsburg W 21:00 [SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",OL Lyonnes W x Wolfsburg W 21:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",BoyacÃ¡ ChicÃ³ x Deportivo Pereira 21:00 [GERMAN & SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Cambridge United x Swindon Town 21:00 [ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",AmÃ©rica de Cali x AtlÃ©tico Bucaramanga 23:10 [GERMAN & SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Santos x Remo 00:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Chapecoense x AtlÃ©tico Mineiro 00:00 [BRAZILIAN]
-https://w2.sportzsonline.click/channels/bra/br4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Jaguares de CÃ³rdoba x Millonarios 01:20 [GERMAN & SPANISH]
-https://w2.sportzsonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Talleres CÃ³rdoba x Boca Juniors 01:30 [GERMAN & SPANISH & ENGLISH]
-https://w2.sportzsonline.click/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",RB Bragantino x Flamengo 02:30 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Al Nassr x Al Najma 20:00 [GREEK & SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd10.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Al Nassr x Al Najma 20:00 [BRAZILIAN]
 https://w2.sportzsonline.click/channels/bra/br3.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Palmeiras x GrÃªmio 02:30 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",PSG x Toulouse 20:45 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",PSG x Toulouse 20:45 [FRENCH]
+https://w2.sportzsonline.click/channels/hd/hd4.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",PSG x Toulouse 20:45 [BRAZILIAN]
 https://w2.sportzsonline.click/channels/bra/br5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Once Caldas x MedellÃ­n 03:30 [GERMAN & SPANISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Rayo Vallecano x Elche 21:00 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Rayo Vallecano x Elche 21:00 [SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Rayo Vallecano x Elche 21:00 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Coventry City x Derby County 21:00 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd1.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Coventry City x Derby County 21:00 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Sporting CP x Santa Clara 21:30 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br4.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",UniÃ³n Santa Fe x Deportivo Riestra 22:15 [DUTCH & SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Coquimbo Unido x Cobresal 22:30 [SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",San Lorenzo x Estudiantes 00:30 [GREEK & SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd10.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",O'Higgins x Audax Italiano 01:00 [SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Fortaleza CEIF x Inter BogotÃ¡ 01:20 [GREEK & ENGLISH]
 https://w2.sportzsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Chicago Bulls @ New York Knicks 01:30 [ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Puebla x JuÃ¡rez 03:00 [SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Puebla x JuÃ¡rez 03:00 [DUTCH & SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Boxing: Pedro Taduran vs Gustavo Perez 03:00 [BRAZILIAN]
+https://w2.sportzsonline.click/channels/bra/br6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Junior x Deportivo Cali 03:30 [GREEK & ENGLISH]
+https://w2.sportzsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Necaxa x MazatlÃ¡n 05:00 [DUTCH & SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Tijuana x Tigres UANL 05:06 [SPANISH]
+https://w2.sportzsonline.click/channels/hd/hd6.php
