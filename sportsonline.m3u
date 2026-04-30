@@ -1,63 +1,51 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Al Taawon x Al Ittihad 18:10 [ENGLISH]
-https://v3.sportssonline.click/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Al Nassr x Al-Ahli 20:00 [ENGLISH]
-https://v3.sportssonline.click/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Al Nassr x Al-Ahli 20:00 [BRAZILIAN]
-https://v3.sportssonline.click/channels/bra/br1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",AtlÃ©tico Madrid x Arsenal 21:00 [ENGLISH]
-https://v3.sportssonline.click/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",AtlÃ©tico Madrid x Arsenal 21:00 [GERMAN]
-https://v3.sportssonline.click/channels/hd/hd3.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",AtlÃ©tico Madrid x Arsenal 21:00 [FRENCH]
-https://v3.sportssonline.click/channels/hd/hd4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",AtlÃ©tico Madrid x Arsenal 21:00 [SPANISH]
-https://v3.sportssonline.click/channels/hd/hd6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",AtlÃ©tico Madrid x Arsenal 21:00 [ITALIAN]
-https://v3.sportssonline.click/channels/hd/hd7.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",AtlÃ©tico Madrid x Arsenal 21:00 [DUTCH]
-https://v3.sportssonline.click/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",AtlÃ©tico Madrid x Arsenal 21:00 [ARABIC & SPANISH]
-https://v3.sportssonline.click/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",AtlÃ©tico Madrid x Arsenal 21:00 [TURKISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Jedinstvo Ub x Crvena Zvezda 19:00 [TURKISH & SPANISH]
 https://v3.sportssonline.click/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",AtlÃ©tico Madrid x Arsenal 21:00 [BRAZILIAN]
-https://v3.sportssonline.click/channels/bra/br3.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Sporting CP x Tondela 21:15 [BRAZILIAN]
-https://v3.sportssonline.click/channels/bra/br4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Vasco U20 x Botafogo U20 23:00 [BRAZILIAN]
-https://v3.sportssonline.click/channels/bra/br1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Platense x Santa Fe 00:00 [DUTCH]
-https://v3.sportssonline.click/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Platense x Santa Fe 00:00 [ARABIC & SPANISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Nottingham Forest x Aston Villa 21:00 [ENGLISH]
+https://v3.sportssonline.click/channels/hd/hd1.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Nottingham Forest x Aston Villa 21:00 [ITALIAN]
+https://v3.sportssonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Nottingham Forest x Aston Villa 21:00 [GERMAN]
 https://v3.sportssonline.click/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Deportivo Riestra x Montevideo City Torque 00:00 [BRAZILIAN]
-https://v3.sportssonline.click/channels/bra/br6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Caracas x Racing 00:00 [BRAZILIAN]
-https://v3.sportssonline.click/channels/bra/br2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Mirassol x Always Ready 00:00 [BRAZILIAN]
-https://v3.sportssonline.click/channels/bra/br3.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Toronto Raptors @ Cleveland Cavaliers 01:30 [ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Nottingham Forest x Aston Villa 21:00 [TURKISH & SPANISH]
+https://v3.sportssonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Sporting Braga x Freiburg 21:00 [ENGLISH]
 https://v3.sportssonline.click/channels/hd/hd2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Palestino x GrÃªmio 02:30 [BRAZILIAN]
-https://v3.sportssonline.click/channels/bra/br6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Estudiantes x Flamengo 02:30 [DUTCH]
-https://v3.sportssonline.click/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Estudiantes x Flamengo 02:30 [ARABIC & SPANISH]
-https://v3.sportssonline.click/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Estudiantes x Flamengo 02:30 [BRAZILIAN]
-https://v3.sportssonline.click/channels/bra/br5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Cerro PorteÃ±o x Palmeiras 02:30 [BRAZILIAN]
-https://v3.sportssonline.click/channels/bra/br2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Cienciano x AtlÃ©tico Mineiro 02:30 [BRAZILIAN]
-https://v3.sportssonline.click/channels/bra/br4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Houston Rockets @ Los Angeles Lakers 04:00 [ENGLISH]
-https://v3.sportssonline.click/channels/hd/hd2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Universitario x Nacional 04:00 [DUTCH]
-https://v3.sportssonline.click/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Universitario x Nacional 04:00 [ARABIC & SPANISH]
-https://v3.sportssonline.click/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Los Angeles FC x Toluca 04:30 [ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Sporting Braga x Freiburg 21:00 [GERMAN]
+https://v3.sportssonline.click/channels/hd/hd3.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Shakhtar Donetsk x Crystal Palace 21:00 [ENGLISH]
 https://v3.sportssonline.click/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Los Angeles FC x Toluca 04:30 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Rayo Vallecano x Strasbourg 21:00 [SPANISH]
+https://v3.sportssonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Rayo Vallecano x Strasbourg 21:00 [SPANISH]
+https://v3.sportssonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Rayo Vallecano x Strasbourg 21:00 [BELGIAN]
+https://v3.sportssonline.click/channels/hd/hd4.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",BolÃ­var x Fluminense 00:00 [SPANISH]
+https://v3.sportssonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",BolÃ­var x Fluminense 00:00 [GERMAN]
+https://v3.sportssonline.click/channels/hd/hd10.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",BolÃ­var x Fluminense 00:00 [BRAZILIAN]
+https://v3.sportssonline.click/channels/bra/br3.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Vasco da Gama x Olimpia 00:00 [BRAZILIAN]
+https://v3.sportssonline.click/channels/bra/br4.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Independiente Rivadavia x Deportivo La Guaira 00:00 [BRAZILIAN]
 https://v3.sportssonline.click/channels/bra/br6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: New York Knicks @ Atlanta Hawks 01:00 [ENGLISH]
+https://v3.sportssonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Corinthians x PeÃ±arol 02:00 [BRAZILIAN]
+https://v3.sportssonline.click/channels/bra/br2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",VÃ©lez Sarsfield x Gimnasia y Tiro 02:15 [ITALIAN]
+https://v3.sportssonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",RB Bragantino x River Plate 02:30 [SPANISH]
+https://v3.sportssonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",RB Bragantino x River Plate 02:30 [GERMAN]
+https://v3.sportssonline.click/channels/hd/hd10.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",RB Bragantino x River Plate 02:30 [BRAZILIAN]
+https://v3.sportssonline.click/channels/bra/br5.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Denver Nuggets @ Minnesota Timberwolves 03:30 [ENGLISH]
+https://v3.sportssonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",MedellÃ­n x Cusco 04:00 [SPANISH]
+https://v3.sportssonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",MedellÃ­n x Cusco 04:00 [GERMAN]
+https://v3.sportssonline.click/channels/hd/hd10.php
