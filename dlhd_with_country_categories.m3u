@@ -54,13 +54,13 @@ https://dlhd.dad/watch.php?id=150
 #EXTINF:-1 tvg-id="espn3_argentina" group-title="Argentina",ESPN3 Argentina
 https://dlhd.dad/watch.php?id=798
 
-#EXTINF:-1 tvg-id="tnt_sports_argentina" group-title="Argentina",Fox Sports Argentina
+#EXTINF:-1 tvg-id="fox_sports_argentina" group-title="Argentina",Fox Sports Argentina
 https://dlhd.dad/watch.php?id=787
 
 #EXTINF:-1 tvg-id="fox_sports_2_argentina" group-title="Argentina",Fox Sports 2 Argentina
 https://dlhd.dad/watch.php?id=788
 
-#EXTINF:-1 tvg-id="fox_sports_argentina" group-title="Argentina",Fox Sports 3 Argentina
+#EXTINF:-1 tvg-id="fox_sports_3_argentina" group-title="Argentina",Fox Sports 3 Argentina
 https://dlhd.dad/watch.php?id=789
 
 #EXTINF:-1 tvg-id="tnt_sports_argentina" group-title="Argentina",TYC Sports Argentina
@@ -114,10 +114,10 @@ https://dlhd.dad/watch.php?id=89
 #EXTINF:-1 tvg-id="espn_brazil" group-title="Brazil",ESPN Brasil
 https://dlhd.dad/watch.php?id=81
 
-#EXTINF:-1 tvg-id="espn_brazil" group-title="Brazil",ESPN2 Brasil
+#EXTINF:-1 tvg-id="espn2_brazil" group-title="Brazil",ESPN2 Brasil
 https://dlhd.dad/watch.php?id=82
 
-#EXTINF:-1 tvg-id="espn_brazil" group-title="Brazil",ESPN3 Brasil
+#EXTINF:-1 tvg-id="espn3_brazil" group-title="Brazil",ESPN3 Brasil
 https://dlhd.dad/watch.php?id=83
 
 #EXTINF:-1 tvg-id="espn4_brazil" group-title="Brazil",ESPN4 Brasil
@@ -135,7 +135,7 @@ https://dlhd.dad/watch.php?id=88
 #EXTINF:-1 group-title="Brazil" tvg-id="sportv3_brazil",SporTV Brasil
 https://dlhd.dad/watch.php?id=78
 
-#EXTINF:-1 group-title="Brazil" tvg-id="sportv3_brazil",SporTV2 Brasil
+#EXTINF:-1 group-title="Brazil" tvg-id="sportv2_brazil",SporTV2 Brasil
 https://dlhd.dad/watch.php?id=79
 
 #EXTINF:-1 group-title="Brazil" tvg-id="sportv3_brazil",SporTV3 Brasil
@@ -225,7 +225,7 @@ https://dlhd.dad/watch.php?id=835
 #EXTINF:-1 tvg-id="rds_ca" group-title="Canada",RDS CA
 https://dlhd.dad/watch.php?id=839
 
-#EXTINF:-1 tvg-id="rds_ca" group-title="Canada",RDS 2 CA
+#EXTINF:-1 tvg-id="rds_2_ca" group-title="Canada",RDS 2 CA
 https://dlhd.dad/watch.php?id=840
 
 #EXTINF:-1 group-title="Canada",RDS Info CA
@@ -255,7 +255,7 @@ https://dlhd.dad/watch.php?id=410
 #EXTINF:-1 group-title="Canada" tvg-id="spectrum_sportsnet_la",Spectrum Sportsnet LA
 https://dlhd.dad/watch.php?id=764
 
-#EXTINF:-1 group-title="Canada",SportsNet Pittsburgh
+#EXTINF:-1 group-title="Canada" tvg-id="sportsnet_pittsburgh",SportsNet Pittsburgh
 https://dlhd.dad/watch.php?id=922
 
 #EXTINF:-1 tvg-id="tsn1" group-title="Canada",TSN1
@@ -273,10 +273,10 @@ https://dlhd.dad/watch.php?id=114
 #EXTINF:-1 tvg-id="tsn5" group-title="Canada",TSN5
 https://dlhd.dad/watch.php?id=115
 
-#EXTINF:-1 tvg-id="btv_action_bulgaria" group-title="Canada",TVA Sports
+#EXTINF:-1 tvg-id="tva_sports" group-title="Canada",TVA Sports
 https://dlhd.dad/watch.php?id=833
 
-#EXTINF:-1 group-title="Canada",TVA Sports 2
+#EXTINF:-1 group-title="Canada" tvg-id="tva_sports",TVA Sports 2
 https://dlhd.dad/watch.php?id=834
 
 #EXTINF:-1 group-title="Canada",TVO CA
@@ -357,16 +357,16 @@ https://dlhd.dad/watch.php?id=1024
 #EXTINF:-1 tvg-id="nova_sport_3_cz" group-title="Czech Republic",Nova Sport 5 CZ
 https://dlhd.dad/watch.php?id=1025
 
-#EXTINF:-1 tvg-id="nova_sport_3_cz" group-title="Czech Republic",Nova Sport 6 CZ
+#EXTINF:-1 tvg-id="nova_sport_6_cz" group-title="Czech Republic",Nova Sport 6 CZ
 https://dlhd.dad/watch.php?id=1026
 
 #EXTINF:-1 tvg-id="oneplay_sport_1_cz" group-title="Czech Republic",Oneplay Sport 1 CZ
 https://dlhd.dad/watch.php?id=1027
 
-#EXTINF:-1 tvg-id="oneplay_sport_2_cz" group-title="Czech Republic",Oneplay Sport 2 CZ
+#EXTINF:-1 tvg-id="oneplay_sport_1_cz" group-title="Czech Republic",Oneplay Sport 2 CZ
 https://dlhd.dad/watch.php?id=1028
 
-#EXTINF:-1 tvg-id="oneplay_sport_3_cz" group-title="Czech Republic",Oneplay Sport 3 CZ
+#EXTINF:-1 tvg-id="oneplay_sport_1_cz" group-title="Czech Republic",Oneplay Sport 3 CZ
 https://dlhd.dad/watch.php?id=1029
 
 #EXTINF:-1 group-title="Czech Republic",Premier Sport 1 CZ
@@ -573,10 +573,10 @@ https://dlhd.dad/watch.php?id=730
 #EXTINF:-1 group-title="Germany",RTL DE
 https://dlhd.dad/watch.php?id=740
 
-#EXTINF:-1 group-title="Germany",Sky Sports 1 DE
+#EXTINF:-1 group-title="Germany" tvg-id="sky_sport_1_de",Sky Sports 1 DE
 https://dlhd.dad/watch.php?id=240
 
-#EXTINF:-1 group-title="Germany",Sky Sports 2 DE
+#EXTINF:-1 group-title="Germany" tvg-id="sky_sport_1_de",Sky Sports 2 DE
 https://dlhd.dad/watch.php?id=241
 
 #EXTINF:-1 tvg-id="sky_sport_top_event_de" group-title="Germany",Sky Sport Top Event DE
@@ -600,7 +600,7 @@ https://dlhd.dad/watch.php?id=948
 #EXTINF:-1 group-title="Germany",Sky Sport Bundesliga 5
 https://dlhd.dad/watch.php?id=949
 
-#EXTINF:-1 tvg-id="sportdigital_fussball_de" group-title="Germany",SportDigital Fussball
+#EXTINF:-1 tvg-id="sportdigital_fussball" group-title="Germany",SportDigital Fussball
 https://dlhd.dad/watch.php?id=571
 
 #EXTINF:-1 group-title="Germany",Sportdigital1+ Germany
@@ -627,7 +627,7 @@ https://dlhd.dad/watch.php?id=739
 #EXTINF:-1 group-title="Germany" tvg-id="sky_sports_golf",Sky Sports Golf DE
 https://dlhd.dad/watch.php?id=785
 
-#EXTINF:-1 group-title="Germany",Sky Sports F1 DE
+#EXTINF:-1 group-title="Germany" tvg-id="sky_sport_1_de",Sky Sports F1 DE
 https://dlhd.dad/watch.php?id=274
 
 #EXTINF:-1 tvg-id="sky_sports_tennis_de" group-title="Germany",Sky Sports Tennis DE
@@ -690,7 +690,7 @@ https://dlhd.dad/watch.php?id=633
 #EXTINF:-1 tvg-id="nova_sports_1_greece" group-title="Greece",Nova Sports 4 Greece
 https://dlhd.dad/watch.php?id=634
 
-#EXTINF:-1 tvg-id="nova_sports_1_greece" group-title="Greece",Nova Sports 5 Greece
+#EXTINF:-1 tvg-id="nova_sports_5_greece" group-title="Greece",Nova Sports 5 Greece
 https://dlhd.dad/watch.php?id=635
 
 #EXTINF:-1 tvg-id="nova_sports_1_greece" group-title="Greece",Nova Sports 6 Greece
@@ -702,7 +702,7 @@ https://dlhd.dad/watch.php?id=599
 #EXTINF:-1 tvg-id="nova_sports_start_greece" group-title="Greece",Nova Sports Start Greece
 https://dlhd.dad/watch.php?id=637
 
-#EXTINF:-1 tvg-id="nova_sports_1_greece" group-title="Greece",Nova Sports Prime Greece
+#EXTINF:-1 tvg-id="nova_sports_prime_greece" group-title="Greece",Nova Sports Prime Greece
 https://dlhd.dad/watch.php?id=638
 
 #EXTINF:-1 tvg-id="nova_sports_1_greece" group-title="Greece",Nova Sports News Greece
@@ -723,10 +723,10 @@ https://dlhd.dad/watch.php?id=267
 #EXTINF:-1 group-title="India" tvg-id="star_sports_hindi_in",Star Sports Hindi IN
 https://dlhd.dad/watch.php?id=268
 
-#EXTINF:-1 group-title="Ireland" tvg-id="premier_sports_1_ireland",Premier Sports Ireland 1
+#EXTINF:-1 group-title="Ireland" tvg-id="premier_sports_ireland_1",Premier Sports Ireland 1
 https://dlhd.dad/watch.php?id=771
 
-#EXTINF:-1 group-title="Ireland" tvg-id="premier_sports_1_ireland",Premier Sports Ireland 2
+#EXTINF:-1 group-title="Ireland" tvg-id="premier_sports_ireland_1",Premier Sports Ireland 2
 https://dlhd.dad/watch.php?id=799
 
 #EXTINF:-1 group-title="Ireland",RTE 1
@@ -999,7 +999,7 @@ https://dlhd.dad/watch.php?id=233
 #EXTINF:-1 tvg-id="eurosport_2_se" group-title="Netherlands",Eurosport 2 NL
 https://dlhd.dad/watch.php?id=234
 
-#EXTINF:-1 tvg-id="espn_1_nl" group-title="Netherlands",ESPN 3 NL
+#EXTINF:-1 tvg-id="espn_3_nl" group-title="Netherlands",ESPN 3 NL
 https://dlhd.dad/watch.php?id=888
 
 #EXTINF:-1 group-title="Netherlands",RTL7 Netherland
@@ -1032,7 +1032,7 @@ https://dlhd.dad/watch.php?id=901
 #EXTINF:-1 tvg-id="sky_sport_1_nz" group-title="New Zealand",Sky Sport 1 NZ
 https://dlhd.dad/watch.php?id=588
 
-#EXTINF:-1 tvg-id="sky_sport_8_nz" group-title="New Zealand",Sky Sport 2 NZ
+#EXTINF:-1 tvg-id="sky_sport_2_nz" group-title="New Zealand",Sky Sport 2 NZ
 https://dlhd.dad/watch.php?id=589
 
 #EXTINF:-1 tvg-id="sky_sport_8_nz" group-title="New Zealand",Sky Sport 3 NZ
@@ -1191,7 +1191,7 @@ https://dlhd.dad/watch.php?id=520
 #EXTINF:-1 group-title="Pakistan",A Sport PK
 https://dlhd.dad/watch.php?id=269
 
-#EXTINF:-1 group-title="Pakistan",PTV Sports
+#EXTINF:-1 group-title="Pakistan" tvg-id="tva_sports",PTV Sports
 https://dlhd.dad/watch.php?id=450
 
 #EXTINF:-1 group-title="Pakistan",Ten Sports PK
@@ -1251,7 +1251,7 @@ https://dlhd.dad/watch.php?id=47
 #EXTINF:-1 tvg-id="polsat_sport_2_poland" group-title="Poland",Polsat Sport 2 Poland
 https://dlhd.dad/watch.php?id=50
 
-#EXTINF:-1 tvg-id="polsat_sport_2_poland" group-title="Poland",Polsat Sport 3 Poland
+#EXTINF:-1 tvg-id="polsat_sport_3_poland" group-title="Poland",Polsat Sport 3 Poland
 https://dlhd.dad/watch.php?id=129
 
 #EXTINF:-1 tvg-id="polsat_sport_poland" group-title="Poland",Polsat News Poland
@@ -1329,10 +1329,10 @@ https://dlhd.dad/watch.php?id=289
 #EXTINF:-1 tvg-id="sport_tv3_portugal" group-title="Portugal",Sport TV3 Portugal
 https://dlhd.dad/watch.php?id=454
 
-#EXTINF:-1 tvg-id="sport_tv2_portugal" group-title="Portugal",Sport TV5 Portugal
+#EXTINF:-1 tvg-id="sport_tv5_portugal" group-title="Portugal",Sport TV5 Portugal
 https://dlhd.dad/watch.php?id=290
 
-#EXTINF:-1 tvg-id="sport_tv2_portugal" group-title="Portugal",Sport TV6 Portugal
+#EXTINF:-1 tvg-id="sport_tv6_portugal" group-title="Portugal",Sport TV6 Portugal
 https://dlhd.dad/watch.php?id=291
 
 #EXTINF:-1 tvg-id="sport_tv1_portugal" group-title="Portugal",SIC Portugal
@@ -1359,7 +1359,7 @@ https://dlhd.dad/watch.php?id=783
 #EXTINF:-1 group-title="Qatar",Alkass Four
 https://dlhd.dad/watch.php?id=784
 
-#EXTINF:-1 group-title="Qatar",beIN SPORTS XTRA 1
+#EXTINF:-1 group-title="Qatar" tvg-id="bein_sports_mena_xtra_1",beIN SPORTS XTRA 1
 https://dlhd.dad/watch.php?id=100
 
 #EXTINF:-1 group-title="Qatar",BeIN Sports HD Qatar
@@ -1551,7 +1551,7 @@ https://dlhd.dad/watch.php?id=416
 #EXTINF:-1 tvg-id="supersport_variety_4" group-title="South Africa",SuperSport Variety 2
 https://dlhd.dad/watch.php?id=417
 
-#EXTINF:-1 tvg-id="supersport_variety_4" group-title="South Africa",SuperSport Variety 3
+#EXTINF:-1 tvg-id="supersport_variety_3" group-title="South Africa",SuperSport Variety 3
 https://dlhd.dad/watch.php?id=418
 
 #EXTINF:-1 tvg-id="supersport_variety_4" group-title="South Africa",SuperSport Variety 4
@@ -1611,7 +1611,7 @@ https://dlhd.dad/watch.php?id=524
 #EXTINF:-1 tvg-id="eurosport_2_spain" group-title="Spain",EuroSport 2 Spain
 https://dlhd.dad/watch.php?id=525
 
-#EXTINF:-1 group-title="Spain",GOL PLAY Spain
+#EXTINF:-1 group-title="Spain" tvg-id="gol_play_spain",GOL PLAY Spain
 https://dlhd.dad/watch.php?id=530
 
 #EXTINF:-1 group-title="Spain",LaLiga SmartBank TV
@@ -1746,10 +1746,10 @@ https://dlhd.dad/watch.php?id=1005
 #EXTINF:-1 tvg-id="trt_spor_turkey" group-title="Turkey",TRT Spor TR
 https://dlhd.dad/watch.php?id=889
 
-#EXTINF:-1 group-title="UAE",Abu Dhabi Sports 1 UAE
+#EXTINF:-1 group-title="UAE" tvg-id="abu_dhabi_sports_1",Abu Dhabi Sports 1 UAE
 https://dlhd.dad/watch.php?id=600
 
-#EXTINF:-1 group-title="UAE",Abu Dhabi Sports 2 UAE
+#EXTINF:-1 group-title="UAE" tvg-id="abu_dhabi_sports_2",Abu Dhabi Sports 2 UAE
 https://dlhd.dad/watch.php?id=601
 
 #EXTINF:-1 group-title="UAE",Abu Dhabi Sports 1 Premium
@@ -1947,7 +1947,7 @@ https://dlhd.dad/watch.php?id=34
 #EXTINF:-1 tvg-id="viaplay_sports_1_uk" group-title="UK",Viaplay Sports 1 UK
 https://dlhd.dad/watch.php?id=451
 
-#EXTINF:-1 tvg-id="viaplay_sports_1_uk" group-title="UK",Viaplay Sports 2 UK
+#EXTINF:-1 tvg-id="viaplay_sports_2_uk" group-title="UK",Viaplay Sports 2 UK
 https://dlhd.dad/watch.php?id=550
 
 #EXTINF:-1 tvg-id="nbc_usa" group-title="USA",ABC USA
@@ -1989,7 +1989,7 @@ https://dlhd.dad/watch.php?id=425
 #EXTINF:-1 group-title="USA" tvg-id="boomerang.us",Boomerang
 https://dlhd.dad/watch.php?id=648
 
-#EXTINF:-1 tvg-id="btn_usa" group-title="USA",BET USA
+#EXTINF:-1 tvg-id="btn+_usa" group-title="USA",BET USA
 https://dlhd.dad/watch.php?id=306
 
 #EXTINF:-1 group-title="USA" tvg-id="bravo_usa",Bravo USA
@@ -2001,7 +2001,7 @@ https://dlhd.dad/watch.php?id=397
 #EXTINF:-1 group-title="USA" tvg-id="cw_pix_11_usa",CW PIX 11 USA
 https://dlhd.dad/watch.php?id=280
 
-#EXTINF:-1 tvg-id="cbsny_usa" group-title="USA",CBS USA
+#EXTINF:-1 tvg-id="cbs_usa" group-title="USA",CBS USA
 https://dlhd.dad/watch.php?id=52
 
 #EXTINF:-1 group-title="USA",Court TV USA
@@ -2019,7 +2019,7 @@ https://dlhd.dad/watch.php?id=310
 #EXTINF:-1 group-title="USA" tvg-id="cartoon-network.us",Cartoon Network
 https://dlhd.dad/watch.php?id=339
 
-#EXTINF:-1 group-title="USA",CNN USA
+#EXTINF:-1 group-title="USA" tvg-id="cnn_usa",CNN USA
 https://dlhd.dad/watch.php?id=345
 
 #EXTINF:-1 group-title="USA",Cinemax USA
@@ -2031,7 +2031,7 @@ https://dlhd.dad/watch.php?id=308
 #EXTINF:-1 group-title="USA",COZI TV USA
 https://dlhd.dad/watch.php?id=748
 
-#EXTINF:-1 group-title="USA",CMT USA
+#EXTINF:-1 group-title="USA" tvg-id="mtv_usa",CMT USA
 https://dlhd.dad/watch.php?id=647
 
 #EXTINF:-1 group-title="USA",Crime+ Investigation USA
@@ -2052,7 +2052,7 @@ https://dlhd.dad/watch.php?id=767
 #EXTINF:-1 tvg-id="cbs_sports_golazo" group-title="USA",CBS Sports Golazo
 https://dlhd.dad/watch.php?id=910
 
-#EXTINF:-1 group-title="USA",Discovery Life Channel
+#EXTINF:-1 group-title="USA" tvg-id="discovery_life_channel",Discovery Life Channel
 https://dlhd.dad/watch.php?id=311
 
 #EXTINF:-1 group-title="USA" tvg-id="disney-channel.us",Disney Channel
@@ -2076,7 +2076,7 @@ https://dlhd.dad/watch.php?id=652
 #EXTINF:-1 tvg-id="espn+_usa" group-title="USA",ESPN USA
 https://dlhd.dad/watch.php?id=44
 
-#EXTINF:-1 tvg-id="espn+_usa" group-title="USA",ESPN2 USA
+#EXTINF:-1 tvg-id="espn2_usa" group-title="USA",ESPN2 USA
 https://dlhd.dad/watch.php?id=45
 
 #EXTINF:-1 tvg-id="espn+_usa" group-title="USA",ESPNU USA
@@ -2097,7 +2097,7 @@ https://dlhd.dad/watch.php?id=279
 #EXTINF:-1 tvg-id="fox_sports_1_usa" group-title="USA",Fox Sports 1 USA
 https://dlhd.dad/watch.php?id=39
 
-#EXTINF:-1 tvg-id="fox_sports_1_usa" group-title="USA",Fox Sports 2 USA
+#EXTINF:-1 tvg-id="fox_sports_2_usa" group-title="USA",Fox Sports 2 USA
 https://dlhd.dad/watch.php?id=758
 
 #EXTINF:-1 tvg-id="fox_soccer_plus" group-title="USA",FOX Soccer Plus
@@ -2115,10 +2115,10 @@ https://dlhd.dad/watch.php?id=297
 #EXTINF:-1 tvg-id="fox_usa" group-title="USA",FOX USA
 https://dlhd.dad/watch.php?id=54
 
-#EXTINF:-1 tvg-id="fox_usa" group-title="USA",FX USA
+#EXTINF:-1 tvg-id="fx_usa" group-title="USA",FX USA
 https://dlhd.dad/watch.php?id=317
 
-#EXTINF:-1 tvg-id="fox_usa" group-title="USA",FXX USA
+#EXTINF:-1 tvg-id="fx_usa" group-title="USA",FXX USA
 https://dlhd.dad/watch.php?id=298
 
 #EXTINF:-1 group-title="USA",Freeform
@@ -2220,10 +2220,10 @@ https://dlhd.dad/watch.php?id=296
 #EXTINF:-1 group-title="USA",Heroes & Icons (H&I) USA
 https://dlhd.dad/watch.php?id=282
 
-#EXTINF:-1 group-title="USA",HBO USA
+#EXTINF:-1 group-title="USA" tvg-id="hbo_usa",HBO USA
 https://dlhd.dad/watch.php?id=321
 
-#EXTINF:-1 group-title="USA",HBO2 USA
+#EXTINF:-1 group-title="USA" tvg-id="hbo_usa",HBO2 USA
 https://dlhd.dad/watch.php?id=689
 
 #EXTINF:-1 group-title="USA",HBO Comedy USA
@@ -2250,7 +2250,7 @@ https://dlhd.dad/watch.php?id=323
 #EXTINF:-1 group-title="USA" tvg-id="hgtv.us",HGTV
 https://dlhd.dad/watch.php?id=382
 
-#EXTINF:-1 group-title="USA",Investigation Discovery (ID USA)
+#EXTINF:-1 group-title="USA" tvg-id="investigation_discovery",Investigation Discovery (ID USA)
 https://dlhd.dad/watch.php?id=324
 
 #EXTINF:-1 tvg-id="bein_sports_usa" group-title="USA",ION USA
@@ -2277,13 +2277,13 @@ https://dlhd.dad/watch.php?id=765
 #EXTINF:-1 group-title="USA" tvg-id="msnbc.us",MSNBC
 https://dlhd.dad/watch.php?id=327
 
-#EXTINF:-1 group-title="USA",Magnolia Network
+#EXTINF:-1 group-title="USA" tvg-id="magnolia_network",Magnolia Network
 https://dlhd.dad/watch.php?id=299
 
-#EXTINF:-1 group-title="USA",MTV USA
+#EXTINF:-1 group-title="USA" tvg-id="mtv_usa",MTV USA
 https://dlhd.dad/watch.php?id=371
 
-#EXTINF:-1 group-title="USA",MAVTV USA
+#EXTINF:-1 group-title="USA" tvg-id="mtv_usa",MAVTV USA
 https://dlhd.dad/watch.php?id=646
 
 #EXTINF:-1 group-title="USA",MLB Network USA
@@ -2292,13 +2292,13 @@ https://dlhd.dad/watch.php?id=399
 #EXTINF:-1 tvg-id="masn_usa" group-title="USA",MASN USA
 https://dlhd.dad/watch.php?id=829
 
-#EXTINF:-1 group-title="USA",MY9TV USA
+#EXTINF:-1 group-title="USA" tvg-id="mtv_usa",MY9TV USA
 https://dlhd.dad/watch.php?id=654
 
 #EXTINF:-1 group-title="USA",Motor Trend
 https://dlhd.dad/watch.php?id=661
 
-#EXTINF:-1 group-title="USA",METV USA
+#EXTINF:-1 group-title="USA" tvg-id="mtv_usa",METV USA
 https://dlhd.dad/watch.php?id=662
 
 #EXTINF:-1 group-title="USA",MGM+ USA / Epix
@@ -2346,7 +2346,7 @@ https://dlhd.dad/watch.php?id=769
 #EXTINF:-1 group-title="USA",NewsNation USA
 https://dlhd.dad/watch.php?id=292
 
-#EXTINF:-1 group-title="USA",National Geographic (NGC)
+#EXTINF:-1 group-title="USA" tvg-id="national_geographic",National Geographic (NGC)
 https://dlhd.dad/watch.php?id=328
 
 #EXTINF:-1 group-title="USA" tvg-id="nick-jr.us",NICK JR
@@ -2430,7 +2430,7 @@ https://dlhd.dad/watch.php?id=981
 #EXTINF:-1 group-title="USA" tvg-id="spectrum_sportsnet_la",Spectrum SportsNet USA
 https://dlhd.dad/watch.php?id=982
 
-#EXTINF:-1 tvg-id="acc_network_usa" group-title="USA",SEC Network USA
+#EXTINF:-1 tvg-id="sec_network_usa" group-title="USA",SEC Network USA
 https://dlhd.dad/watch.php?id=385
 
 #EXTINF:-1 tvg-id="supersports_action" group-title="USA",SuperSport Action
@@ -2490,7 +2490,7 @@ https://dlhd.dad/watch.php?id=336
 #EXTINF:-1 group-title="USA" tvg-id="tlc.us",TLC
 https://dlhd.dad/watch.php?id=337
 
-#EXTINF:-1 tvg-id="tnt_usa" group-title="USA",TNT USA
+#EXTINF:-1 tvg-id="btn+_usa" group-title="USA",TNT USA
 https://dlhd.dad/watch.php?id=338
 
 #EXTINF:-1 group-title="USA" tvg-id="travel-channel.us",Travel Channel
@@ -2532,7 +2532,7 @@ https://dlhd.dad/watch.php?id=132
 #EXTINF:-1 group-title="USA" tvg-id="vh1_usa",VH1 USA
 https://dlhd.dad/watch.php?id=344
 
-#EXTINF:-1 group-title="USA",VICE TV
+#EXTINF:-1 group-title="USA" tvg-id="vice_tv",VICE TV
 https://dlhd.dad/watch.php?id=659
 
 #EXTINF:-1 group-title="USA" tvg-id="wwe_network",WWE Network
@@ -2541,7 +2541,7 @@ https://dlhd.dad/watch.php?id=376
 #EXTINF:-1 group-title="USA",WETV USA
 https://dlhd.dad/watch.php?id=655
 
-#EXTINF:-1 tvg-id="yes_usa" group-title="USA",YES Network USA
+#EXTINF:-1 tvg-id="sec_network_usa" group-title="USA",YES Network USA
 https://dlhd.dad/watch.php?id=763
 
 #EXTINF:-1 group-title="USA",5 USA
